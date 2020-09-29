@@ -2,7 +2,7 @@
 
 # Filters: HUMAN, ABSTRACT, JOURNAL ARTICLE. 28-09-2020
 # Search : cell-type AND dementia
-# Neuron only 10,000 of 26,000 was selected
+# Neuron only 10,000 PMID of 26,000 was selected
 
 # Oligodendrocyte
 
