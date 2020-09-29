@@ -1,0 +1,3017 @@
+PMID- 31726662
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200722
+LR  - 20200722
+IS  - 2073-4409 (Electronic)
+IS  - 2073-4409 (Linking)
+VI  - 8
+IP  - 11
+DP  - 2019 Nov 12
+TI  - Oligodendrocytes in Development, Myelin Generation and Beyond.
+LID - 10.3390/cells8111424 [doi]
+LID - 1424
+AB  - Oligodendrocytes are the myelinating cells of the central nervous system (CNS) that 
+      are generated from oligodendrocyte progenitor cells (OPC). OPC are distributed 
+      throughout the CNS and represent a pool of migratory and proliferative adult 
+      progenitor cells that can differentiate into oligodendrocytes. The central function 
+      of oligodendrocytes is to generate myelin, which is an extended membrane from the 
+      cell that wraps tightly around axons. Due to this energy consuming process and the 
+      associated high metabolic turnover oligodendrocytes are vulnerable to cytotoxic and 
+      excitotoxic factors. Oligodendrocyte pathology is therefore evident in a range of 
+      disorders including multiple sclerosis, schizophrenia and Alzheimer's disease. 
+      Deceased oligodendrocytes can be replenished from the adult OPC pool and lost myelin 
+      can be regenerated during remyelination, which can prevent axonal degeneration and 
+      can restore function. Cell population studies have recently identified novel 
+      immunomodulatory functions of oligodendrocytes, the implications of which, e.g., for 
+      diseases with primary oligodendrocyte pathology, are not yet clear. Here, we review 
+      the journey of oligodendrocytes from the embryonic stage to their role in 
+      homeostasis and their fate in disease. We will also discuss the most common models 
+      used to study oligodendrocytes and describe newly discovered functions of 
+      oligodendrocytes.
+FAU - Kuhn, Sarah
+AU  - Kuhn S
+AD  - Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast, 
+      Belfast BT9 7BL, UK.
+FAU - Gritti, Laura
+AU  - Gritti L
+AD  - Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast, 
+      Belfast BT9 7BL, UK.
+FAU - Crooks, Daniel
+AU  - Crooks D
+AD  - Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast, 
+      Belfast BT9 7BL, UK.
+FAU - Dombrowski, Yvonne
+AU  - Dombrowski Y
+AD  - Wellcome-Wolfson Institute for Experimental Medicine, Queen's University Belfast, 
+      Belfast BT9 7BL, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20191112
+TA  - Cells
+JT  - Cells
+JID - 101600052
+SB  - IM
+MH  - Alzheimer Disease/metabolism/pathology
+MH  - Animals
+MH  - Humans
+MH  - Multiple Sclerosis/metabolism/pathology
+MH  - Myelin Sheath/*metabolism
+MH  - Oligodendrocyte Precursor Cells/*cytology/metabolism
+MH  - Oligodendroglia/*metabolism/*pathology
+MH  - Remyelination
+MH  - Schizophrenia/metabolism/pathology
+PMC - PMC6912544
+OTO - NOTNLM
+OT  - *OPC
+OT  - *multiple sclerosis
+OT  - *myelin
+OT  - *myelination
+OT  - *oligodendrocyte progenitor cells
+OT  - *oligodendrocytes
+OT  - *remyelination
+COIS- The authors declare no conflict of interest.
+EDAT- 2019/11/16 06:00
+MHDA- 2020/07/23 06:00
+CRDT- 2019/11/16 06:00
+PHST- 2019/10/15 00:00 [received]
+PHST- 2019/11/07 00:00 [revised]
+PHST- 2019/11/07 00:00 [accepted]
+PHST- 2019/11/16 06:00 [entrez]
+PHST- 2019/11/16 06:00 [pubmed]
+PHST- 2020/07/23 06:00 [medline]
+AID - cells8111424 [pii]
+AID - cells-08-01424 [pii]
+AID - 10.3390/cells8111424 [doi]
+PST - epublish
+SO  - Cells. 2019 Nov 12;8(11):1424. doi: 10.3390/cells8111424.
+
+PMID- 31768052
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200131
+LR  - 20200318
+IS  - 1546-1726 (Electronic)
+IS  - 1097-6256 (Linking)
+VI  - 22
+IP  - 12
+DP  - 2019 Dec
+TI  - A single-cell atlas of entorhinal cortex from individuals with Alzheimer's disease 
+      reveals cell-type-specific gene expression regulation.
+PG  - 2087-2097
+LID - 10.1038/s41593-019-0539-4 [doi]
+AB  - There is currently little information available about how individual cell types 
+      contribute to Alzheimer's disease. Here we applied single-nucleus RNA sequencing to 
+      entorhinal cortex samples from control and Alzheimer's disease brains (n = 6 per 
+      group), yielding a total of 13,214 high-quality nuclei. We detail cell-type-specific 
+      gene expression patterns, unveiling how transcriptional changes in specific cell 
+      subpopulations are associated with Alzheimer's disease. We report that the 
+      Alzheimer's disease risk gene APOE is specifically repressed in Alzheimer's disease 
+      oligodendrocyte progenitor cells and astrocyte subpopulations and upregulated in an 
+      Alzheimer's disease-specific microglial subopulation. Integrating transcription 
+      factor regulatory modules with Alzheimer's disease risk loci revealed drivers of 
+      cell-type-specific state transitions towards Alzheimer's disease. For example, 
+      transcription factor EB, a master regulator of lysosomal function, regulates 
+      multiple disease genes in a specific Alzheimer's disease astrocyte subpopulation. 
+      These results provide insights into the coordinated control of Alzheimer's disease 
+      risk genes and their cell-type-specific contribution to disease susceptibility. 
+      These results are available at http://adsn.ddnetbio.com.
+FAU - Grubman, Alexandra
+AU  - Grubman A
+AUID- ORCID: 0000-0003-4408-4499
+AD  - Department of Anatomy and Developmental Biology, Monash University, Clayton, 
+      Victoria, Australia.
+AD  - Development and Stem Cells Program, Monash Biomedicine Discovery Institute, Clayton, 
+      Victoria, Australia.
+AD  - Australian Regenerative Medicine Institute, Monash University, Clayton, Victoria, 
+      Australia.
+FAU - Chew, Gabriel
+AU  - Chew G
+AD  - Program in Cardiovascular and Metabolic Disorders, Duke-National University of 
+      Singapore Medical School, Singapore, Singapore.
+FAU - Ouyang, John F
+AU  - Ouyang JF
+AUID- ORCID: 0000-0002-1239-1577
+AD  - Program in Cardiovascular and Metabolic Disorders, Duke-National University of 
+      Singapore Medical School, Singapore, Singapore.
+FAU - Sun, Guizhi
+AU  - Sun G
+AD  - Department of Anatomy and Developmental Biology, Monash University, Clayton, 
+      Victoria, Australia.
+AD  - Development and Stem Cells Program, Monash Biomedicine Discovery Institute, Clayton, 
+      Victoria, Australia.
+AD  - Australian Regenerative Medicine Institute, Monash University, Clayton, Victoria, 
+      Australia.
+FAU - Choo, Xin Yi
+AU  - Choo XY
+AUID- ORCID: 0000-0002-1783-0102
+AD  - Department of Anatomy and Developmental Biology, Monash University, Clayton, 
+      Victoria, Australia.
+AD  - Development and Stem Cells Program, Monash Biomedicine Discovery Institute, Clayton, 
+      Victoria, Australia.
+AD  - Australian Regenerative Medicine Institute, Monash University, Clayton, Victoria, 
+      Australia.
+AD  - Department of Pathology, The University of Melbourne, Melbourne, Victoria, 
+      Australia.
+FAU - McLean, Catriona
+AU  - McLean C
+AUID- ORCID: 0000-0002-0302-5727
+AD  - Victorian Brain Bank, Florey Institute of Neurosciences, Parkville, Victoria, 
+      Australia.
+FAU - Simmons, Rebecca K
+AU  - Simmons RK
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Buckberry, Sam
+AU  - Buckberry S
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Vargas-Landin, Dulce B
+AU  - Vargas-Landin DB
+AUID- ORCID: 0000-0002-4773-9406
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Poppe, Daniel
+AU  - Poppe D
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Pflueger, Jahnvi
+AU  - Pflueger J
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Lister, Ryan
+AU  - Lister R
+AUID- ORCID: 0000-0001-6637-7239
+AD  - ARC Center of Excellence in Plant Energy Biology, The University of Western 
+      Australia, Perth, Western Australia, Australia.
+AD  - The Harry Perkins Institute of Medical Research, Perth, Western Australia, 
+      Australia.
+FAU - Rackham, Owen J L
+AU  - Rackham OJL
+AUID- ORCID: 0000-0002-4390-0872
+AD  - Program in Cardiovascular and Metabolic Disorders, Duke-National University of 
+      Singapore Medical School, Singapore, Singapore. owen.rackham@duke-nus.edu.sg.
+FAU - Petretto, Enrico
+AU  - Petretto E
+AUID- ORCID: 0000-0003-2163-5921
+AD  - Program in Cardiovascular and Metabolic Disorders, Duke-National University of 
+      Singapore Medical School, Singapore, Singapore. enrico.petretto@duke-nus.edu.sg.
+FAU - Polo, Jose M
+AU  - Polo JM
+AUID- ORCID: 0000-0002-2531-778X
+AD  - Department of Anatomy and Developmental Biology, Monash University, Clayton, 
+      Victoria, Australia. jose.polo@monash.edu.
+AD  - Development and Stem Cells Program, Monash Biomedicine Discovery Institute, Clayton, 
+      Victoria, Australia. jose.polo@monash.edu.
+AD  - Australian Regenerative Medicine Institute, Monash University, Clayton, Victoria, 
+      Australia. jose.polo@monash.edu.
+LA  - eng
+GR  - MC_U120097112/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Nat Neurosci
+JT  - Nature neuroscience
+JID - 9809671
+RN  - 0 (Apolipoproteins E)
+SB  - IM
+CIN - Nat Rev Neurol. 2020 Jan;16(1):1. PMID: 31827266
+MH  - Alzheimer Disease/*metabolism
+MH  - Apolipoproteins E/metabolism
+MH  - Astrocytes/*metabolism
+MH  - Atlases as Topic
+MH  - Case-Control Studies
+MH  - Down-Regulation
+MH  - Entorhinal Cortex/*metabolism
+MH  - Female
+MH  - *Gene Expression Regulation
+MH  - Genetic Predisposition to Disease/*genetics
+MH  - Humans
+MH  - Male
+MH  - Microglia/*metabolism
+MH  - Oligodendrocyte Precursor Cells/*metabolism
+MH  - Sequence Analysis, RNA
+MH  - Up-Regulation
+EDAT- 2019/11/27 06:00
+MHDA- 2020/02/01 06:00
+CRDT- 2019/11/27 06:00
+PHST- 2019/11/27 06:00 [pubmed]
+PHST- 2020/02/01 06:00 [medline]
+PHST- 2019/11/27 06:00 [entrez]
+AID - 10.1038/s41593-019-0539-4 [pii]
+AID - 10.1038/s41593-019-0539-4 [doi]
+PST - ppublish
+SO  - Nat Neurosci. 2019 Dec;22(12):2087-2097. doi: 10.1038/s41593-019-0539-4.
+
+PMID- 26000818
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160921
+LR  - 20151215
+IS  - 1563-5279 (Electronic)
+IS  - 0020-7454 (Linking)
+VI  - 126
+IP  - 2
+DP  - 2016
+TI  - Oligodendrocytes and Alzheimer's disease.
+PG  - 97-104
+LID - 10.3109/00207454.2015.1025778 [doi]
+AB  - Extensive evidence has indicated that the breakdown of myelin is associated with 
+      Alzheimer's disease (AD) since the vulnerability of oligodendrocytes under 
+      Alzheimer's pathology easily induces the myelin breakdown and the loss of the myelin 
+      sheath which might be the initiating step in the changes of the earliest stage of AD 
+      prior to appearance of amyloid and tau pathology. Considerable research implicated 
+      that beta-amyloid (Aβ)-mediated oligodendrocyte dysfunction and myelin breakdown may 
+      be via neuroinflammation, oxidative stress and/or apoptosis. It also seems that the 
+      oligodendrocyte dysfunction is triggered by the formation of neurofibrillary tangles 
+      (NFTs) through inflammation and oxidative stress as the common pathophysiological 
+      base. Impaired repair of oligodendrocyte precursor cells (OPCs) might possibly 
+      enhance the disease progress under decreased self-healing ability from aging process 
+      and pathological factors including Aβ pathology and/or NFTs. Thus, these results 
+      have suggested that targeting oligodendrocytes may be a novel therapeutic 
+      intervention for the prevention and treatment of AD.
+FAU - Cai, Zhiyou
+AU  - Cai Z
+AD  - a Department of Neurology, Renmin Hospital , Hubei University of Medicine, Shiyan 
+      Renmin Hospital , Shiyan , Hubei Province , China.
+FAU - Xiao, Ming
+AU  - Xiao M
+AD  - b Department of Anatomy , Nanjing Medical University , Nanjing , Jiangsu , China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20150714
+PL  - England
+TA  - Int J Neurosci
+JT  - The International journal of neuroscience
+JID - 0270707
+SB  - IM
+MH  - Alzheimer Disease/*pathology
+MH  - Humans
+MH  - Myelin Sheath/pathology
+MH  - Oligodendroglia/*pathology
+OTO - NOTNLM
+OT  - Alzheimer's disease
+OT  - myelin
+OT  - oligodendrocyte
+EDAT- 2015/05/23 06:00
+MHDA- 2016/09/23 06:00
+CRDT- 2015/05/23 06:00
+PHST- 2015/05/23 06:00 [entrez]
+PHST- 2015/05/23 06:00 [pubmed]
+PHST- 2016/09/23 06:00 [medline]
+AID - 10.3109/00207454.2015.1025778 [doi]
+PST - ppublish
+SO  - Int J Neurosci. 2016;126(2):97-104. doi: 10.3109/00207454.2015.1025778. Epub 2015 
+      Jul 14.
+
+PMID- 31583593
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191008
+LR  - 20191008
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1175
+DP  - 2019
+TI  - Oligodendroglial Cells in Alzheimer's Disease.
+PG  - 325-333
+LID - 10.1007/978-981-13-9913-8_12 [doi]
+AB  - Oligodendrocytes form the myelin that ensheaths CNS axons, which is essential for 
+      rapid neuronal signalling and underpins the massive computing power of the human 
+      brain. Oligodendrocytes and myelin also provide metabolic and trophic support for 
+      axons and their disruption results in axonal demise and neurodegeneration, which are 
+      key features of Alzheimer's disease (AD). Notably, the brain has a remarkable 
+      capacity for regenerating oligodendrocytes, which is the function of adult 
+      oligodendrocyte progenitor cells (OPCs) or NG2-glia. White matter loss is 
+      often among the earliest brain changes in AD, preceding the tangles and plaques that 
+      characterize neuronal deficits. The underlying causes of myelin loss include 
+      oxidative stress, neuroinflammation and excitotoxicity, associated with accumulation 
+      of Aβ and tau hyperphosphorylation, pathological hallmarks of AD. Moreover, there is 
+      evidence that NG2-glia are disrupted in AD, which may be associated with disruption 
+      of synaptic signalling. This has led to the hypothesis that a vicious cycle of 
+      myelin loss and failure of regeneration from NG2-glia plays a key role in AD. 
+      Therapies that target NG2-glia are likely to have positive effects on myelination 
+      and neuroprotection in AD.
+FAU - Butt, Arthur M
+AU  - Butt AM
+AD  - School of Pharmacy and Biomedical Science, University of Portsmouth, St. Michael's 
+      Building, White Sawn Road, Portsmouth, PO1 2DT, UK. Arthur.butt@port.ac.uk.
+FAU - De La Rocha, Irene Chacon
+AU  - De La Rocha IC
+AD  - School of Pharmacy and Biomedical Science, University of Portsmouth, St. Michael's 
+      Building, White Sawn Road, Portsmouth, PO1 2DT, UK.
+FAU - Rivera, Andrea
+AU  - Rivera A
+AD  - School of Pharmacy and Biomedical Science, University of Portsmouth, St. Michael's 
+      Building, White Sawn Road, Portsmouth, PO1 2DT, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+SB  - IM
+MH  - Alzheimer Disease/*physiopathology
+MH  - Axons
+MH  - Demyelinating Diseases/physiopathology
+MH  - Humans
+MH  - Myelin Sheath/*pathology
+MH  - Oligodendroglia/*cytology
+OTO - NOTNLM
+OT  - Axon
+OT  - Myelin
+OT  - NG2-glia
+OT  - OPC
+OT  - Oligodendrocyte
+OT  - Oligodendrocyte precursor cell
+EDAT- 2019/10/05 06:00
+MHDA- 2019/10/09 06:00
+CRDT- 2019/10/05 06:00
+PHST- 2019/10/05 06:00 [entrez]
+PHST- 2019/10/05 06:00 [pubmed]
+PHST- 2019/10/09 06:00 [medline]
+AID - 10.1007/978-981-13-9913-8_12 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2019;1175:325-333. doi: 10.1007/978-981-13-9913-8_12.
+
+PMID- 30554964
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200303
+LR  - 20200309
+IS  - 1875-9777 (Electronic)
+IS  - 1934-5909 (Print)
+IS  - 1875-9777 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2019 Jan 3
+TI  - Human ESC-Derived Chimeric Mouse Models of Huntington's Disease Reveal 
+      Cell-Intrinsic Defects in Glial Progenitor Cell Differentiation.
+PG  - 107-122.e7
+LID - S1934-5909(18)30546-0 [pii]
+LID - 10.1016/j.stem.2018.11.010 [doi]
+AB  - Huntington's disease (HD) is characterized by hypomyelination and neuronal loss. To 
+      assess the basis for myelin loss in HD, we generated bipotential glial progenitor 
+      cells (GPCs) from human embryonic stem cells (hESCs) derived from mutant Huntingtin 
+      (mHTT) embryos or normal controls and performed RNA sequencing (RNA-seq) to assess 
+      mHTT-dependent changes in gene expression. In human GPCs (hGPCs) derived from 3 mHTT 
+      hESC lines, transcription factors associated with glial differentiation and myelin 
+      synthesis were sharply downregulated relative to normal hESC GPCs; NKX2.2, OLIG2, 
+      SOX10, MYRF, and their downstream targets were all suppressed. Accordingly, when 
+      mHTT hGPCs were transplanted into hypomyelinated shiverer mice, the resultant glial 
+      chimeras were hypomyelinated; this defect could be rescued by forced expression of 
+      SOX10 and MYRF by mHTT hGPCs. The mHTT hGPCs also manifested impaired astrocytic 
+      differentiation and developed abnormal fiber architecture. White matter involution 
+      in HD is thus a product of the cell-autonomous, mHTT-dependent suppression of glial 
+      differentiation.
+CI  - Copyright © 2018 Elsevier Inc. All rights reserved.
+FAU - Osipovitch, Mikhail
+AU  - Osipovitch M
+AD  - Center for Translational Neuromedicine, University of Copenhagen Faculty of Health 
+      and Medical Science, 2200 Copenhagen N, Denmark.
+FAU - Asenjo Martinez, Andrea
+AU  - Asenjo Martinez A
+AD  - Center for Translational Neuromedicine, University of Copenhagen Faculty of Health 
+      and Medical Science, 2200 Copenhagen N, Denmark.
+FAU - Mariani, John N
+AU  - Mariani JN
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Cornwell, Adam
+AU  - Cornwell A
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Dhaliwal, Simrat
+AU  - Dhaliwal S
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Zou, Lisa
+AU  - Zou L
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Chandler-Militello, Devin
+AU  - Chandler-Militello D
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Wang, Su
+AU  - Wang S
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Li, Xiaojie
+AU  - Li X
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Benraiss, Sarah-Jehanne
+AU  - Benraiss SJ
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Agate, Robert
+AU  - Agate R
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Lampp, Andrea
+AU  - Lampp A
+AD  - Center for Translational Neuromedicine, University of Copenhagen Faculty of Health 
+      and Medical Science, 2200 Copenhagen N, Denmark.
+FAU - Benraiss, Abdellatif
+AU  - Benraiss A
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Windrem, Martha S
+AU  - Windrem MS
+AD  - Center for Translational Neuromedicine, University of Rochester Medical Center, 
+      Rochester, NY 10021, USA.
+FAU - Goldman, Steven A
+AU  - Goldman SA
+AD  - Center for Translational Neuromedicine, University of Copenhagen Faculty of Health 
+      and Medical Science, 2200 Copenhagen N, Denmark; Center for Translational 
+      Neuromedicine, University of Rochester Medical Center, Rochester, NY 10021, USA; 
+      Neuroscience Center, Rigshospitalet, Copenhagen, Denmark. Electronic address: 
+      steven_goldman@urmc.rochester.edu.
+LA  - eng
+GR  - R01 MH099578/MH/NIMH NIH HHS/United States
+GR  - R01 MH104701/MH/NIMH NIH HHS/United States
+GR  - R01 NS110776/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20181213
+TA  - Cell Stem Cell
+JT  - Cell stem cell
+JID - 101311472
+RN  - 0 (HTT protein, human)
+RN  - 0 (Huntingtin Protein)
+SB  - IM
+CIN - Cell Stem Cell. 2019 Jan 3;24(1):3-4. PMID: 30609397
+MH  - Animals
+MH  - Astrocytes/metabolism/pathology
+MH  - Cell Differentiation
+MH  - Chimera
+MH  - Demyelinating Diseases/genetics/metabolism/*pathology
+MH  - *Disease Models, Animal
+MH  - Human Embryonic Stem Cells/metabolism/*pathology
+MH  - Humans
+MH  - Huntingtin Protein/*genetics
+MH  - Huntington Disease/genetics/metabolism/*pathology
+MH  - Mice
+MH  - Mutation
+MH  - Neurogenesis
+MH  - Neuroglia/metabolism/*pathology
+MH  - Stem Cells/metabolism/*pathology
+PMC - PMC6700734
+MID - NIHMS1514367
+OTO - NOTNLM
+OT  - *Huntington’s disease
+OT  - *MYRF
+OT  - *astrocyte
+OT  - *chimera
+OT  - *chimeric mouse
+OT  - *embryonic stem cell
+OT  - *glia
+OT  - *myelin
+OT  - *neurodegenerative disease
+OT  - *oligodendrocyte
+COIS- Declaration of Interests: Drs. Goldman and Windrem hold a patent on human glial 
+      chimeric mice, US 7,524,491, from which they receive no financial remuneration. Drs. 
+      Goldman and Osipovitch have a patent application pending covering genes 
+      differentially expressed by glial cells in Huntington’s disease, and modulators 
+      thereof.
+EDAT- 2018/12/18 06:00
+MHDA- 2020/03/04 06:00
+CRDT- 2018/12/18 06:00
+PHST- 2017/11/18 00:00 [received]
+PHST- 2018/09/04 00:00 [revised]
+PHST- 2018/11/07 00:00 [accepted]
+PHST- 2018/12/18 06:00 [pubmed]
+PHST- 2020/03/04 06:00 [medline]
+PHST- 2018/12/18 06:00 [entrez]
+AID - S1934-5909(18)30546-0 [pii]
+AID - 10.1016/j.stem.2018.11.010 [doi]
+PST - ppublish
+SO  - Cell Stem Cell. 2019 Jan 3;24(1):107-122.e7. doi: 10.1016/j.stem.2018.11.010. Epub 
+      2018 Dec 13.
+
+PMID- 29283444
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190122
+LR  - 20200415
+IS  - 1531-8249 (Electronic)
+IS  - 0364-5134 (Print)
+IS  - 0364-5134 (Linking)
+VI  - 83
+IP  - 1
+DP  - 2018 Jan
+TI  - Vasodilator dysfunction and oligodendrocyte dysmaturation in aging white matter.
+PG  - 142-152
+LID - 10.1002/ana.25129 [doi]
+AB  - OBJECTIVE: Microvascular brain injury (mVBI) is a common pathological correlate of 
+      vascular contributions to cognitive impairment and dementia (VCID) that leads to 
+      white matter (WM) injury (WMI). VCID appears to arise from chronic recurrent white 
+      matter ischemia that triggers oxidative stress and an increase in total 
+      oligodendrocyte lineage cells. We hypothesized that mVBI involves vasodilator 
+      dysfunction of white matter penetrating arterioles and aberrant oligodendrocyte 
+      progenitor cell (OPC) responses to WMI. METHODS: We analyzed cases of mVBI with low 
+      Alzheimer's disease neuropathological change in prefrontal cortex WM from rapid 
+      autopsies in a population-based cohort where VCID frequently occurs. Arteriolar 
+      vasodilator function was quantified by videomicroscopy. OPC maturation was 
+      quantified using lineage specific markers. RESULTS: Acetylcholine-mediated 
+      arteriolar dilation in mVBI was significantly reduced in WM penetrators relative to 
+      pial arterioles. Astrogliosis-defined WMI was positively associated with increased 
+      OPCs and was negatively associated with decreased mature oligodendrocytes. 
+      INTERPRETATION: Selectively impaired vasodilator function of WM penetrating 
+      arterioles in mVBI occurs in association with aberrant differentiation of OPCs in 
+      WMI, which supports that myelination disturbances in VCID are related to disrupted 
+      maturation of myelinating oligodendrocytes. Ann Neurol 2018;83:142-152.
+CI  - © 2017 American Neurological Association.
+FAU - Bagi, Zsolt
+AU  - Bagi Z
+AD  - Vascular Biology Center.
+AD  - Department of Medicine, Medical College of Georgia, Augusta University, Augusta, GA.
+FAU - Brandner, Dieter D
+AU  - Brandner DD
+AD  - Departments of Pediatrics.
+FAU - Le, Phuong
+AU  - Le P
+AD  - Departments of Pediatrics.
+FAU - McNeal, David W
+AU  - McNeal DW
+AD  - Departments of Pediatrics.
+FAU - Gong, Xi
+AU  - Gong X
+AD  - Departments of Pediatrics.
+FAU - Dou, Huijuan
+AU  - Dou H
+AD  - Vascular Biology Center.
+FAU - Fulton, David J
+AU  - Fulton DJ
+AD  - Vascular Biology Center.
+FAU - Beller, Allison
+AU  - Beller A
+AD  - Department of Pathology, University of Washington, Seattle, WA.
+FAU - Ngyuen, Thuan
+AU  - Ngyuen T
+AD  - Preventive Medicine.
+FAU - Larson, Eric B
+AU  - Larson EB
+AD  - Group Health Research Institute, Seattle, WA.
+FAU - Montine, Thomas J
+AU  - Montine TJ
+AD  - Department of Pathology, University of Washington, Seattle, WA.
+FAU - Keene, C Dirk
+AU  - Keene CD
+AUID- ORCID: 0000-0002-5291-1469
+AD  - Department of Pathology, University of Washington, Seattle, WA.
+FAU - Back, Stephen A
+AU  - Back SA
+AUID- ORCID: 0000-0002-4433-4630
+AD  - Departments of Pediatrics.
+AD  - Neurology, Oregon Health & Science University, Portland, OR.
+LA  - eng
+GR  - R01 NS054044/NS/NINDS NIH HHS/United States
+GR  - R01 AG031892/AG/NIA NIH HHS/United States
+GR  - R01 HL125926/HL/NHLBI NIH HHS/United States
+GR  - P50 AG005136/AG/NIA NIH HHS/United States
+GR  - U01 AG006781/AG/NIA NIH HHS/United States
+GR  - R01 AG054651/AG/NIA NIH HHS/United States
+GR  - R01 NS045737/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+TA  - Ann Neurol
+JT  - Annals of neurology
+JID - 7707449
+RN  - N9YNS0M02X (Acetylcholine)
+SB  - IM
+MH  - Acetylcholine/pharmacology
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/*pathology
+MH  - Alzheimer Disease/pathology
+MH  - Arterioles/pathology
+MH  - Autopsy
+MH  - Cell Lineage
+MH  - Cognition Disorders/pathology
+MH  - Cohort Studies
+MH  - Female
+MH  - Gliosis/pathology
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Male
+MH  - Neural Stem Cells/pathology
+MH  - Oligodendroglia/*pathology
+MH  - Prefrontal Cortex/pathology
+MH  - *Vasodilation
+MH  - White Matter/*pathology
+PMC - PMC5876126
+MID - NIHMS932165
+COIS- Potential Conflicts of Interest None
+EDAT- 2017/12/29 06:00
+MHDA- 2019/01/23 06:00
+CRDT- 2017/12/29 06:00
+PHST- 2017/08/30 00:00 [received]
+PHST- 2017/12/24 00:00 [revised]
+PHST- 2017/12/26 00:00 [accepted]
+PHST- 2017/12/29 06:00 [pubmed]
+PHST- 2019/01/23 06:00 [medline]
+PHST- 2017/12/29 06:00 [entrez]
+AID - 10.1002/ana.25129 [doi]
+PST - ppublish
+SO  - Ann Neurol. 2018 Jan;83(1):142-152. doi: 10.1002/ana.25129.
+
+PMID- 29337114
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190117
+LR  - 20190117
+IS  - 2213-6711 (Electronic)
+IS  - 2213-6711 (Linking)
+VI  - 10
+IP  - 2
+DP  - 2018 Feb 13
+TI  - Pathological Endogenous α-Synuclein Accumulation in Oligodendrocyte Precursor Cells 
+      Potentially Induces Inclusions in Multiple System Atrophy.
+PG  - 356-365
+LID - S2213-6711(17)30530-1 [pii]
+LID - 10.1016/j.stemcr.2017.12.001 [doi]
+AB  - Glial cytoplasmic inclusions (GCIs), commonly observed as α-synuclein 
+      (α-syn)-positive aggregates within oligodendrocytes, are the pathological hallmark 
+      of multiple system atrophy. The origin of α-syn in GCIs is uncertain; there is 
+      little evidence of endogenous α-syn expression in oligodendrocyte lineage cells, 
+      oligodendrocyte precursor cells (OPCs), and mature oligodendrocytes (OLGs). Here, 
+      based on in vitro analysis using primary rat cell cultures, we elucidated that 
+      preformed fibrils (PFFs) generated from recombinant human α-syn trigger 
+      multimerization and an upsurge of endogenous α-syn in OPCs, which is attributable to 
+      insufficient autophagic proteolysis. RNA-seq analysis of OPCs revealed that α-syn 
+      PFFs interfered with the expression of proteins associated with neuromodulation and 
+      myelination. Furthermore, we detected cytoplasmic α-syn inclusions in OLGs through 
+      differentiation of OPCs pre-incubated with PFFs. Overall, our findings suggest the 
+      possibility of endogenous α-syn accumulation in OPCs that contributes to GCI 
+      formation and perturbation of neuronal/glial support in multiple system atrophy 
+      brains.
+CI  - Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
+FAU - Kaji, Seiji
+AU  - Kaji S
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan.
+FAU - Maki, Takakuni
+AU  - Maki T
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan. Electronic address: 
+      harutoma@kuhp.kyoto-u.ac.jp.
+FAU - Kinoshita, Hisanori
+AU  - Kinoshita H
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan.
+FAU - Uemura, Norihito
+AU  - Uemura N
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan.
+FAU - Ayaki, Takashi
+AU  - Ayaki T
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan.
+FAU - Kawamoto, Yasuhiro
+AU  - Kawamoto Y
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan; Department of Neurology, 
+      Rakusai Shimizu Hospital, Nishikyo-ku, 610-1106 Kyoto, Japan.
+FAU - Furuta, Takahiro
+AU  - Furuta T
+AD  - Department of Morphological Brain Science, Graduate School of Medicine, Kyoto 
+      University, Kyoto, Japan.
+FAU - Urushitani, Makoto
+AU  - Urushitani M
+AD  - Department of Neurology, Shiga University of Medical Science, Otsu, 520-2192 Shiga, 
+      Japan.
+FAU - Hasegawa, Masato
+AU  - Hasegawa M
+AD  - Department of Dementia and Higher Brain Function, Tokyo Metropolitan Institute of 
+      Medical Science, Setagaya-ku, 156-8506 Tokyo, Japan.
+FAU - Kinoshita, Yusuke
+AU  - Kinoshita Y
+AD  - Department of Developmental Neurobiology, KAN Research Institute, Inc., Kobe, 
+      650-0047 Hyogo, Japan.
+FAU - Ono, Yuichi
+AU  - Ono Y
+AD  - Department of Developmental Neurobiology, KAN Research Institute, Inc., Kobe, 
+      650-0047 Hyogo, Japan.
+FAU - Mao, Xiaobo
+AU  - Mao X
+AD  - Neuroregeneration and Stem Cell Program, Institute for Cell Engineering and the 
+      Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21205, USA.
+FAU - Quach, Tran H
+AU  - Quach TH
+AD  - Neuroregeneration and Stem Cell Program, Institute for Cell Engineering and the 
+      Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21205, USA.
+FAU - Iwai, Kazuhiro
+AU  - Iwai K
+AD  - Department of Molecular and Cellular Physiology, Graduate School of Medicine, Kyoto 
+      University, Kyoto, Japan.
+FAU - Dawson, Valina L
+AU  - Dawson VL
+AD  - Neuroregeneration and Stem Cell Program, Institute for Cell Engineering and the 
+      Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21205, USA; Department of Physiology, Johns Hopkins University School of Medicine, 
+      Baltimore, MD 21205, USA; Solomon H. Snyder Department of Neuroscience, Johns 
+      Hopkins University School of Medicine, Baltimore, MD 21205, USA; Adrienne Helis 
+      Malvin Medical Research Foundation, New Orleans, LA 70130-2685, USA.
+FAU - Dawson, Ted M
+AU  - Dawson TM
+AD  - Neuroregeneration and Stem Cell Program, Institute for Cell Engineering and the 
+      Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, MD 
+      21205, USA; Solomon H. Snyder Department of Neuroscience, Johns Hopkins University 
+      School of Medicine, Baltimore, MD 21205, USA; Department of Pharmacology & Molecular 
+      Sciences, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA; 
+      Adrienne Helis Malvin Medical Research Foundation, New Orleans, LA 70130-2685, USA.
+FAU - Takahashi, Ryosuke
+AU  - Takahashi R
+AD  - Department of Neurology, Graduate School of Medicine, Kyoto University, 54 
+      Shogoin-Kawahara-cho, Sakyo-ku, 606-8397 Kyoto, Japan. Electronic address: 
+      ryosuket@kuhp.kyoto-u.ac.jp.
+LA  - eng
+GR  - P50 AG005146/AG/NIA NIH HHS/United States
+GR  - P50 NS038377/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180111
+TA  - Stem Cell Reports
+JT  - Stem cell reports
+JID - 101611300
+RN  - 0 (alpha-Synuclein)
+SB  - IM
+MH  - Animals
+MH  - Brain/metabolism/pathology
+MH  - Cell Culture Techniques
+MH  - Cell Differentiation/genetics
+MH  - Humans
+MH  - Inclusion Bodies/*genetics/pathology
+MH  - Multiple System Atrophy/*genetics/metabolism/pathology
+MH  - Neuroglia/metabolism/pathology
+MH  - Neurons/metabolism/pathology
+MH  - Oligodendrocyte Precursor Cells/*metabolism/pathology
+MH  - Oligodendroglia/metabolism
+MH  - Rats
+MH  - alpha-Synuclein/*genetics/metabolism
+PMC - PMC5830961
+OTO - NOTNLM
+OT  - *autophagy
+OT  - *glial cytoplasmic inclusion
+OT  - *misfolding
+OT  - *multiple system atrophy
+OT  - *neurotrophic factor
+OT  - *oligodendrocyte precursor cells
+OT  - *oligodendrocytes
+OT  - *primary cell culture
+OT  - *synucleinopathy
+OT  - *α-synuclein
+EDAT- 2018/01/18 06:00
+MHDA- 2019/01/18 06:00
+CRDT- 2018/01/17 06:00
+PHST- 2017/01/17 00:00 [received]
+PHST- 2017/12/02 00:00 [revised]
+PHST- 2017/12/04 00:00 [accepted]
+PHST- 2018/01/18 06:00 [pubmed]
+PHST- 2019/01/18 06:00 [medline]
+PHST- 2018/01/17 06:00 [entrez]
+AID - S2213-6711(17)30530-1 [pii]
+AID - 10.1016/j.stemcr.2017.12.001 [doi]
+PST - ppublish
+SO  - Stem Cell Reports. 2018 Feb 13;10(2):356-365. doi: 10.1016/j.stemcr.2017.12.001. 
+      Epub 2018 Jan 11.
+
+PMID- 29150274
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180713
+LR  - 20180713
+IS  - 1532-2777 (Electronic)
+IS  - 0306-9877 (Linking)
+VI  - 109
+DP  - 2017 Nov
+TI  - Neuroprotective potential of high-dose biotin.
+PG  - 145-149
+LID - S0306-9877(17)30843-5 [pii]
+LID - 10.1016/j.mehy.2017.10.012 [doi]
+AB  - A recent controlled trial has established that high-dose biotin supplementation - 
+      100 mg, three times daily - has a stabilizing effect on progression of multiple 
+      sclerosis (MS). Although this effect has been attributed to an optimization of 
+      biotin's essential cofactor role in the brain, a case can be made that direct 
+      stimulation of soluble guanylate cyclase (sGC) by pharmacological concentrations of 
+      biotin plays a key role in this regard. The utility of high-dose biotin in MS might 
+      reflect an anti-inflammatory effect of cGMP on the cerebral microvasculature, as 
+      well on oligodendrocyte differentiation and on Schwann cell production of 
+      neurotrophic factors thought to have potential for managing MS. But biotin's ability 
+      to boost cGMP synthesis in the brain may have broader neuroprotective potential. In 
+      many types of neurons and neural cells, cGMP exerts neurotrophic-mimetic effects - 
+      entailing activation of the PI3K-Akt and Ras-ERK pathways - that promote neuron 
+      survival and plasticity. Hippocampal long term potentiation requires nitric oxide 
+      synthesis, which in turn promotes an activating phosphorylation of CREB via a 
+      pathway involving cGMP and protein kinase G (PKG). In Alzheimer's disease (AD), 
+      amyloid beta suppresses this mechanism by inhibiting sGC activity; agents which 
+      exert a countervailing effect by boosting cGMP levels tend to restore effective 
+      long-term potentiation in rodent models of AD. Moreover, NO/cGMP suppresses amyloid 
+      beta production within the brain by inhibiting expression of amyloid precursor 
+      protein and BACE1. In conjunction with cGMP's ability to oppose neuron apoptosis, 
+      these effects suggest that high-dose biotin might have potential for the prevention 
+      and management of AD. cGMP also promotes neurogenesis, and may lessen stroke risk by 
+      impeding atherogenesis and hypertrophic remodeling in the cerebral vasculature. The 
+      neuroprotective potential of high-dose biotin likely could be boosted by concurrent 
+      administration of brain-permeable phosphodiesterase-5 inhibitors.
+CI  - Copyright © 2017 Elsevier Ltd. All rights reserved.
+FAU - McCarty, Mark F
+AU  - McCarty MF
+AD  - Catalytic Longevity, 811 B Nahant Ct., San Diego, CA 92109, USA. Electronic address: 
+      markfmccarty@gmail.com.
+FAU - DiNicolantonio, James J
+AU  - DiNicolantonio JJ
+AD  - Mid America Heart Institute, St. Luke's Hospital, Kansas City, MO, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20171016
+PL  - United States
+TA  - Med Hypotheses
+JT  - Medical hypotheses
+JID - 7505668
+RN  - 0 (Amyloid beta-Peptides)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Phosphodiesterase Inhibitors)
+RN  - 6SO6U10H04 (Biotin)
+RN  - EC 2.7.1.- (Phosphatidylinositol 3-Kinases)
+RN  - EC 2.7.11.12 (Cyclic GMP-Dependent Protein Kinases)
+RN  - EC 2.7.11.24 (Extracellular Signal-Regulated MAP Kinases)
+RN  - EC 3.1.4.35 (Cyclic Nucleotide Phosphodiesterases, Type 5)
+RN  - H2D2X058MU (Cyclic GMP)
+SB  - IM
+MH  - Aging
+MH  - Alzheimer Disease/*prevention & control
+MH  - Amyloid beta-Peptides/metabolism
+MH  - Biotin/*pharmacology
+MH  - Brain
+MH  - Cyclic GMP/*metabolism
+MH  - Cyclic GMP-Dependent Protein Kinases/metabolism
+MH  - Cyclic Nucleotide Phosphodiesterases, Type 5/metabolism
+MH  - Extracellular Signal-Regulated MAP Kinases/metabolism
+MH  - Humans
+MH  - Long-Term Potentiation
+MH  - Microcirculation
+MH  - Multiple Sclerosis/*prevention & control
+MH  - Neurogenesis
+MH  - Neuroprotective Agents/*pharmacology
+MH  - Phosphatidylinositol 3-Kinases/metabolism
+MH  - Phosphodiesterase Inhibitors/chemistry
+MH  - Randomized Controlled Trials as Topic
+MH  - Signal Transduction/drug effects
+OTO - NOTNLM
+OT  - Alzheimers disease
+OT  - Beta-amyloid
+OT  - Biotin
+OT  - Cgmp
+OT  - Multiple sclerosis
+OT  - Neurotrophic factors
+OT  - Phosphodiesterase-5
+OT  - Protein kinase G
+OT  - Schwann cells
+OT  - Soluble guanylate cyclase
+EDAT- 2017/11/19 06:00
+MHDA- 2018/07/14 06:00
+CRDT- 2017/11/19 06:00
+PHST- 2017/08/08 00:00 [received]
+PHST- 2017/09/28 00:00 [revised]
+PHST- 2017/10/13 00:00 [accepted]
+PHST- 2017/11/19 06:00 [entrez]
+PHST- 2017/11/19 06:00 [pubmed]
+PHST- 2018/07/14 06:00 [medline]
+AID - S0306-9877(17)30843-5 [pii]
+AID - 10.1016/j.mehy.2017.10.012 [doi]
+PST - ppublish
+SO  - Med Hypotheses. 2017 Nov;109:145-149. doi: 10.1016/j.mehy.2017.10.012. Epub 2017 Oct 
+      16.
+
+PMID- 28351960
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170703
+LR  - 20170703
+IS  - 1470-8736 (Electronic)
+IS  - 0143-5221 (Linking)
+VI  - 131
+IP  - 8
+DP  - 2017 Apr 25
+TI  - Pathogenesis of white matter changes in cerebral small vessel diseases: beyond 
+      vessel-intrinsic mechanisms.
+PG  - 635-651
+LID - 10.1042/CS20160380 [doi]
+AB  - Cerebral small vessel diseases (SVDs) are a leading cause of age and 
+      hypertension-related stroke and dementia. The salient features of SVDs visible on 
+      conventional brain magnetic resonance images include white matter hyperintensities 
+      (WMHs) on T2-weighted images, small infarcts, macrohemorrhages, dilated perivascular 
+      spaces, microbleeds and brain atrophy. Among these, WMHs are the most common and 
+      often the earliest brain tissue changes. Moreover, over the past two decades, large 
+      population- and patient-based studies have established the clinical importance of 
+      WMHs, notably with respect to cognitive and motor disturbances. Here, we seek to 
+      provide a new and critical look at the pathogenesis of SVD-associated white matter 
+      (WM) changes. We first review our current knowledge of WM biology in the healthy 
+      brain, and then consider the main clinical and pathological features of WM changes 
+      in SVDs. The most widely held view is that SVD-associated WM lesions are caused by 
+      chronic hypoperfusion, impaired cerebrovascular reactivity (CVR) or blood-brain 
+      barrier (BBB) leakage. Here, we assess the arguments for and against each of these 
+      mechanisms based on population, patient and experimental model studies, and further 
+      discuss other potential mechanisms. Specifically, building on two recent seminal 
+      studies that have uncovered an anatomical and functional relationship between 
+      oligodendrocyte progenitor cells and blood vessels, we elaborate on how small vessel 
+      changes might compromise myelin remodelling and cause WM degeneration. Finally, we 
+      propose new directions for future studies on this hot research topic.
+CI  - © 2017 The Author(s). published by Portland Press Limited on behalf of the 
+      Biochemical Society.
+FAU - Joutel, Anne
+AU  - Joutel A
+AD  - Genetics and Pathogenesis of Cerebrovascular Diseases, INSERM, Université Paris 
+      Diderot-Paris7, Paris, France anne.joutel@inserm.fr.
+AD  - DHU NeuroVasc Sorbonne Paris Cité, Paris, France.
+FAU - Chabriat, Hugues
+AU  - Chabriat H
+AD  - Genetics and Pathogenesis of Cerebrovascular Diseases, INSERM, Université Paris 
+      Diderot-Paris7, Paris, France.
+AD  - DHU NeuroVasc Sorbonne Paris Cité, Paris, France.
+AD  - Department of Neurology, Hôpital Lariboisière, Assistance Publique des Hôpitaux de 
+      Paris, Paris, France.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Clin Sci (Lond)
+JT  - Clinical science (London, England : 1979)
+JID - 7905731
+SB  - IM
+MH  - Axons/physiology
+MH  - Blood-Brain Barrier/physiology
+MH  - Cerebral Small Vessel Diseases/*pathology/physiopathology
+MH  - Cerebrovascular Circulation/physiology
+MH  - Humans
+MH  - Myelin Sheath/pathology
+MH  - Neuronal Plasticity/physiology
+MH  - Oligodendroglia/cytology/physiology
+MH  - White Matter/blood supply/*pathology
+OTO - NOTNLM
+OT  - blood–brain barrier
+OT  - cerebrovascular reactivity
+OT  - hypoperfusion
+OT  - oligodendrocyte precursor cells
+EDAT- 2017/03/30 06:00
+MHDA- 2017/07/04 06:00
+CRDT- 2017/03/30 06:00
+PHST- 2016/11/26 00:00 [received]
+PHST- 2017/01/04 00:00 [revised]
+PHST- 2017/01/16 00:00 [accepted]
+PHST- 2017/03/30 06:00 [entrez]
+PHST- 2017/03/30 06:00 [pubmed]
+PHST- 2017/07/04 06:00 [medline]
+AID - CS20160380 [pii]
+AID - 10.1042/CS20160380 [doi]
+PST - ppublish
+SO  - Clin Sci (Lond). 2017 Apr 25;131(8):635-651. doi: 10.1042/CS20160380.
+
+PMID- 24012743
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140619
+LR  - 20170922
+IS  - 1873-7544 (Electronic)
+IS  - 0306-4522 (Linking)
+VI  - 253
+DP  - 2013 Dec 3
+TI  - Targeting the neural extracellular matrix in neurological disorders.
+PG  - 194-213
+LID - S0306-4522(13)00738-0 [pii]
+LID - 10.1016/j.neuroscience.2013.08.050 [doi]
+AB  - The extracellular matrix (ECM) is known to regulate important processes in neuronal 
+      cell development, activity and growth. It is associated with the structural 
+      stabilization of neuronal processes and synaptic contacts during the maturation of 
+      the central nervous system. The remodeling of the ECM during both development and 
+      after central nervous system injury has been shown to affect neuronal guidance, 
+      synaptic plasticity and their regenerative responses. Particular interest has 
+      focused on the inhibitory role of chondroitin sulfate proteoglycans (CSPGs) and 
+      their formation into dense lattice-like structures, termed perineuronal nets (PNNs), 
+      which enwrap sub-populations of neurons and restrict plasticity. Recent studies in 
+      mammalian systems have implicated CSPGs and PNNs in regulating and restricting 
+      structural plasticity. The enzymatic degradation of CSPGs or destabilization of PNNs 
+      has been shown to enhance neuronal activity and plasticity after central nervous 
+      system injury. This review focuses on the role of the ECM, CSPGs and PNNs; and how 
+      developmental and pharmacological manipulation of these structures have enhanced 
+      neuronal plasticity and aided functional recovery in regeneration, stroke, and 
+      amblyopia. In addition to CSPGs, this review also points to the functions and 
+      potential therapeutic value of these and several other key ECM molecules in 
+      epileptogenesis and dementia.
+CI  - Copyright © 2013 IBRO. Published by Elsevier Ltd. All rights reserved.
+FAU - Soleman, S
+AU  - Soleman S
+AD  - Cambridge Centre for Brain Repair, Department of Clinical Neurosciences, University 
+      of Cambridge, Cambridge, United Kingdom.
+FAU - Filippov, M A
+AU  - Filippov MA
+FAU - Dityatev, A
+AU  - Dityatev A
+FAU - Fawcett, J W
+AU  - Fawcett JW
+LA  - eng
+GR  - G1000864/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20130904
+PL  - United States
+TA  - Neuroscience
+JT  - Neuroscience
+JID - 7605074
+RN  - 0 (Chondroitin Sulfate Proteoglycans)
+RN  - 0 (Extracellular Matrix Proteins)
+SB  - IM
+MH  - Animals
+MH  - Chondroitin Sulfate Proteoglycans/antagonists & inhibitors/metabolism
+MH  - Extracellular Matrix/*metabolism
+MH  - Extracellular Matrix Proteins/antagonists & inhibitors/*metabolism
+MH  - Humans
+MH  - *Nervous System Diseases/metabolism/pathology/therapy
+MH  - Neurons/cytology/*physiology
+OTO - NOTNLM
+OT  - AD
+OT  - ADDLs
+OT  - Alzheimer’s disease
+OT  - BDNF
+OT  - CSPGs
+OT  - ChABC
+OT  - ECM
+OT  - GAG
+OT  - HSPGs
+OT  - LGI1
+OT  - LRP1
+OT  - LTD
+OT  - LTP
+OT  - MMP
+OT  - OPCs
+OT  - Otx2
+OT  - PNNs
+OT  - PV
+OT  - SCI
+OT  - SRPX2
+OT  - Sushi-repeat Protein, X-linked 2
+OT  - amyloid-derived diffusible ligands
+OT  - brain-derived neurotrophic factor
+OT  - chondroitin sulfate proteoglycans
+OT  - chondroitinase ABC
+OT  - epilepsy
+OT  - extracellular matrix
+OT  - glycosaminoglycan
+OT  - heparan sulfate proteoglycans
+OT  - leucine-rich, glioma-inactivated 1
+OT  - lipoprotein receptor-related protein 1
+OT  - long-term depression
+OT  - long-term potentiation
+OT  - mEPSCs
+OT  - matrix metalloproteinase
+OT  - miniature excitatory postsynaptic currents
+OT  - oligodendrocyte precursor cells
+OT  - orthodenticle homeobox protein 2
+OT  - parvalbumin
+OT  - perineuronal nets
+OT  - plasticity
+OT  - proteoglycans
+OT  - spinal cord injury
+OT  - uPA
+OT  - urokinase-type plasminogen activator
+EDAT- 2013/09/10 06:00
+MHDA- 2014/06/20 06:00
+CRDT- 2013/09/10 06:00
+PHST- 2013/06/21 00:00 [received]
+PHST- 2013/08/06 00:00 [revised]
+PHST- 2013/08/26 00:00 [accepted]
+PHST- 2013/09/10 06:00 [entrez]
+PHST- 2013/09/10 06:00 [pubmed]
+PHST- 2014/06/20 06:00 [medline]
+AID - S0306-4522(13)00738-0 [pii]
+AID - 10.1016/j.neuroscience.2013.08.050 [doi]
+PST - ppublish
+SO  - Neuroscience. 2013 Dec 3;253:194-213. doi: 10.1016/j.neuroscience.2013.08.050. Epub 
+      2013 Sep 4.
+
+PMID- 30150378
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181015
+LR  - 20181202
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 115
+IP  - 37
+DP  - 2018 Sep 11
+TI  - Early postnatal behavioral, cellular, and molecular changes in models of Huntington 
+      disease are reversible by HDAC inhibition.
+PG  - E8765-E8774
+LID - 10.1073/pnas.1807962115 [doi]
+AB  - Huntington disease (HD) is an autosomal dominant neurodegenerative disorder caused 
+      by expanded CAG repeats in the huntingtin gene (HTT). Although mutant HTT is 
+      expressed during embryonic development and throughout life, clinical HD usually 
+      manifests later in adulthood. A number of studies document neurodevelopmental 
+      changes associated with mutant HTT, but whether these are reversible under therapy 
+      remains unclear. Here, we identify very early behavioral, molecular, and cellular 
+      changes in preweaning transgenic HD rats and mice. Reduced ultrasonic vocalization, 
+      loss of prepulse inhibition, and increased risk taking are accompanied by 
+      disturbances of dopaminergic regulation in vivo, reduced neuronal differentiation 
+      capacity in subventricular zone stem/progenitor cells, and impaired neuronal and 
+      oligodendrocyte differentiation of mouse embryo-derived neural stem cells in vitro. 
+      Interventional treatment of this early phenotype with the histone deacetylase 
+      inhibitor (HDACi) LBH589 led to significant improvement in behavioral changes and 
+      markers of dopaminergic neurotransmission and complete reversal of aberrant neuronal 
+      differentiation in vitro and in vivo. Our data support the notion that 
+      neurodevelopmental changes contribute to the prodromal phase of HD and that early, 
+      presymptomatic intervention using HDACi may represent a promising novel treatment 
+      approach for HD.
+CI  - Copyright © 2018 the Author(s). Published by PNAS.
+FAU - Siebzehnrübl, Florian A
+AU  - Siebzehnrübl FA
+AUID- ORCID: 0000-0001-8411-8775
+AD  - McKnight Brain Institute, Department of Neurosurgery, University of Florida, 
+      Gainesville, FL 32611.
+AD  - European Cancer Stem Cell Research Institute, Cardiff University School of 
+      Biosciences, Cardiff CF10 3AX, United Kingdom.
+FAU - Raber, Kerstin A
+AU  - Raber KA
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Urbach, Yvonne K
+AU  - Urbach YK
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Schulze-Krebs, Anja
+AU  - Schulze-Krebs A
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Canneva, Fabio
+AU  - Canneva F
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Moceri, Sandra
+AU  - Moceri S
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Habermeyer, Johanna
+AU  - Habermeyer J
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany.
+FAU - Achoui, Dalila
+AU  - Achoui D
+AD  - McKnight Brain Institute, Department of Neurosurgery, University of Florida, 
+      Gainesville, FL 32611.
+FAU - Gupta, Bhavana
+AU  - Gupta B
+AD  - European Cancer Stem Cell Research Institute, Cardiff University School of 
+      Biosciences, Cardiff CF10 3AX, United Kingdom.
+FAU - Steindler, Dennis A
+AU  - Steindler DA
+AD  - McKnight Brain Institute, Department of Neurosurgery, University of Florida, 
+      Gainesville, FL 32611.
+AD  - Neuroscience and Aging Laboratory, Jean Mayer USDA Human Nutrition Research Center 
+      on Aging, Tufts University, Medford, MA 02155.
+FAU - Stephan, Michael
+AU  - Stephan M
+AD  - Clinic of Psychosomatic and Psychotherapy, Medical School Hannover, 30625 Hannover, 
+      Germany.
+FAU - Nguyen, Huu Phuc
+AU  - Nguyen HP
+AD  - Institute of Medical Genetics and Applied Genomics, Center for Rare Diseases, 
+      University of Tübingen, 72074 Tübingen, Germany.
+FAU - Bonin, Michael
+AU  - Bonin M
+AD  - Institute of Medical Genetics and Applied Genomics, Center for Rare Diseases, 
+      University of Tübingen, 72074 Tübingen, Germany.
+FAU - Riess, Olaf
+AU  - Riess O
+AD  - Institute of Medical Genetics and Applied Genomics, Center for Rare Diseases, 
+      University of Tübingen, 72074 Tübingen, Germany.
+FAU - Bauer, Andreas
+AU  - Bauer A
+AD  - Institute of Neuroscience and Medicine, Forschungszentrum Jülich, 52425 Jülich, 
+      Germany.
+FAU - Aigner, Ludwig
+AU  - Aigner L
+AD  - Institute of Molecular Regenerative Medicine, Paracelsus Medical University, 5020 
+      Salzburg, Austria.
+FAU - Couillard-Despres, Sebastien
+AU  - Couillard-Despres S
+AUID- ORCID: 0000-0002-8486-6412
+AD  - Institute of Experimental Neuroregeneration, Spinal Cord Injury and Tissue 
+      Regeneration Center Salzburg, Paracelsus Medical University, 5020 Salzburg, Austria.
+FAU - Paucar, Martin Arce
+AU  - Paucar MA
+AD  - Section of Translational Neuropharmacology, Department of Physiology and 
+      Pharmacology, Karolinska Institute, 171 77 Solna, Sweden.
+FAU - Svenningsson, Per
+AU  - Svenningsson P
+AD  - Section of Translational Neuropharmacology, Department of Physiology and 
+      Pharmacology, Karolinska Institute, 171 77 Solna, Sweden.
+FAU - Osmand, Alexander
+AU  - Osmand A
+AD  - Department of Biochemistry and Cellular and Molecular Biology, University of 
+      Tennessee, Knoxville, TN 37996.
+FAU - Andreew, Alexander
+AU  - Andreew A
+AD  - Institute for Human Genetics, Charité-Universitätsmedizin, 13353 Berlin, Germany.
+FAU - Zabel, Claus
+AU  - Zabel C
+AD  - Institute for Human Genetics, Charité-Universitätsmedizin, 13353 Berlin, Germany.
+FAU - Weiss, Andreas
+AU  - Weiss A
+AD  - Neuroscience Discovery, Novartis Pharma AG, 4056 Basel, Switzerland.
+FAU - Kuhn, Rainer
+AU  - Kuhn R
+AD  - Neuroscience Discovery, Novartis Pharma AG, 4056 Basel, Switzerland.
+FAU - Moussaoui, Saliha
+AU  - Moussaoui S
+AD  - Neuroscience Discovery, Novartis Pharma AG, 4056 Basel, Switzerland.
+FAU - Blockx, Ines
+AU  - Blockx I
+AD  - Bio-Imaging Laboratory, University of Antwerp, 2000 Antwerp, Belgium.
+FAU - Van der Linden, Annemie
+AU  - Van der Linden A
+AD  - Bio-Imaging Laboratory, University of Antwerp, 2000 Antwerp, Belgium.
+FAU - Cheong, Rachel Y
+AU  - Cheong RY
+AD  - Translational Neuroendocrine Research Unit, Department of Experimental Medical 
+      Science, Lund University, 221 84 Lund, Sweden.
+FAU - Roybon, Laurent
+AU  - Roybon L
+AD  - Stem Cell Laboratory for CNS Disease Modeling, Department of Experimental Medical 
+      Science, Lund University, 221 84 Lund, Sweden.
+FAU - Petersén, Åsa
+AU  - Petersén Å
+AD  - Translational Neuroendocrine Research Unit, Department of Experimental Medical 
+      Science, Lund University, 221 84 Lund, Sweden.
+FAU - von Hörsten, Stephan
+AU  - von Hörsten S
+AUID- ORCID: 0000-0001-6409-0664
+AD  - Department of Experimental Therapy, Friedrich-Alexander-University, 91054 Erlangen, 
+      Germany; stephan.v.hoersten@fau.de.
+LA  - eng
+GR  - R01 NS055165/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180827
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (HTT protein, human)
+RN  - 0 (Histone Deacetylase Inhibitors)
+RN  - 0 (Huntingtin Protein)
+RN  - 0 (Hydroxamic Acids)
+RN  - 0 (Indoles)
+RN  - 9647FM7Y3Z (Panobinostat)
+SB  - IM
+CIN - Nat Rev Neurol. 2018 Nov;14(11):632-633. PMID: 30206321
+MH  - Animals
+MH  - Animals, Genetically Modified
+MH  - Cell Differentiation/*drug effects/genetics/physiology
+MH  - Disease Models, Animal
+MH  - Female
+MH  - Histone Deacetylase Inhibitors/pharmacology
+MH  - Humans
+MH  - Huntingtin Protein/genetics
+MH  - Huntington Disease/genetics/*physiopathology
+MH  - Hydroxamic Acids/*pharmacology
+MH  - Indoles/*pharmacology
+MH  - Lateral Ventricles/pathology
+MH  - Male
+MH  - Mice, Transgenic
+MH  - Mutation
+MH  - Neurons/*drug effects/metabolism/physiology
+MH  - Panobinostat
+MH  - Rats
+PMC - PMC6140493
+OTO - NOTNLM
+OT  - *animal model
+OT  - *development
+OT  - *experimental therapy
+OT  - *multiomics
+OT  - *neurodegeneration
+COIS- The authors declare no conflict of interest.
+EDAT- 2018/08/29 06:00
+MHDA- 2018/10/16 06:00
+CRDT- 2018/08/29 06:00
+PHST- 2018/08/29 06:00 [pubmed]
+PHST- 2018/10/16 06:00 [medline]
+PHST- 2018/08/29 06:00 [entrez]
+AID - 1807962115 [pii]
+AID - 201807962 [pii]
+AID - 10.1073/pnas.1807962115 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2018 Sep 11;115(37):E8765-E8774. doi: 
+      10.1073/pnas.1807962115. Epub 2018 Aug 27.
+
+PMID- 29973407
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191004
+LR  - 20191008
+IS  - 1946-6242 (Electronic)
+IS  - 1946-6234 (Linking)
+VI  - 10
+IP  - 448
+DP  - 2018 Jul 4
+TI  - Reversal of endothelial dysfunction reduces white matter vulnerability in cerebral 
+      small vessel disease in rats.
+LID - eaam9507 [pii]
+LID - 10.1126/scitranslmed.aam9507 [doi]
+AB  - Dementia is a major social and economic problem for our aging population. One of the 
+      most common of dementia in the elderly is cerebral small vessel disease (SVD). 
+      Magnetic resonance scans of SVD patients typically show white matter abnormalities, 
+      but we do not understand the mechanistic pathological link between blood vessels and 
+      white matter myelin damage. Hypertension is suggested as the cause of sporadic SVD, 
+      but a recent alternative hypothesis invokes dysfunction of the blood-brain barrier 
+      as the primary cause. In a rat model of SVD, we show that endothelial cell (EC) 
+      dysfunction is the first change in development of the disease. Dysfunctional ECs 
+      secrete heat shock protein 90α, which blocks oligodendroglial differentiation, 
+      contributing to impaired myelination. Treatment with EC-stabilizing drugs reversed 
+      these EC and oligodendroglial pathologies in the rat model. EC and oligodendroglial 
+      dysfunction were also observed in humans with early, asymptomatic SVD pathology. We 
+      identified a loss-of-function mutation in ATPase11B, which caused the EC dysfunction 
+      in the rat SVD model, and a single-nucleotide polymorphism in ATPase11B that was 
+      associated with white matter abnormalities in humans with SVD. We show that EC 
+      dysfunction is a cause of SVD white matter vulnerability and provide a therapeutic 
+      strategy to treat and reverse SVD in the rat model, which may also be of relevance 
+      to human SVD.
+CI  - Copyright © 2018 The Authors, some rights reserved; exclusive licensee American 
+      Association for the Advancement of Science. No claim to original U.S. Government 
+      Works.
+FAU - Rajani, Rikesh M
+AU  - Rajani RM
+AUID- ORCID: 0000-0003-3391-8654
+AD  - Medical Research Council (MRC) Centre for Regenerative Medicine and UK Dementia 
+      Research Institute, University of Edinburgh, Edinburgh EH16 4UU, UK.
+FAU - Quick, Sophie
+AU  - Quick S
+AUID- ORCID: 0000-0003-2692-145X
+AD  - Medical Research Council (MRC) Centre for Regenerative Medicine and UK Dementia 
+      Research Institute, University of Edinburgh, Edinburgh EH16 4UU, UK.
+FAU - Ruigrok, Silvie R
+AU  - Ruigrok SR
+AUID- ORCID: 0000-0002-0577-9127
+AD  - Medical Research Council (MRC) Centre for Regenerative Medicine and UK Dementia 
+      Research Institute, University of Edinburgh, Edinburgh EH16 4UU, UK.
+FAU - Graham, Delyth
+AU  - Graham D
+AUID- ORCID: 0000-0002-7328-4708
+AD  - Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow G12 
+      8QQ, UK.
+FAU - Harris, Sarah E
+AU  - Harris SE
+AUID- ORCID: 0000-0002-4941-5106
+AD  - Centre for Cognitive Ageing and Cognitive Epidemiology and MRC Institute of Genetics 
+      and Molecular Medicine, University of Edinburgh, Edinburgh EH4 2LF, UK.
+FAU - Verhaaren, Benjamin F J
+AU  - Verhaaren BFJ
+AUID- ORCID: 0000-0003-3477-9350
+AD  - Erasmus Medical Centre, 3015 CE Rotterdam, Netherlands.
+AD  - Neurology Working Group of the Cohorts for Heart and Aging Research in Genomic 
+      Epidemiology (CHARGE).
+FAU - Fornage, Myriam
+AU  - Fornage M
+AD  - Neurology Working Group of the Cohorts for Heart and Aging Research in Genomic 
+      Epidemiology (CHARGE).
+AD  - Institute of Molecular Medicine, University of Texas Health Science Center, Houston, 
+      TX 77030, USA.
+FAU - Seshadri, Sudha
+AU  - Seshadri S
+AUID- ORCID: 0000-0001-6135-2622
+AD  - Neurology Working Group of the Cohorts for Heart and Aging Research in Genomic 
+      Epidemiology (CHARGE).
+AD  - Department of Neurology, Boston University School of Medicine, Boston, MA 02118, 
+      USA.
+FAU - Atanur, Santosh S
+AU  - Atanur SS
+AD  - Centre for Genomic and Experimental Medicine, University of Edinburgh, Edinburgh EH4 
+      2LF, UK.
+FAU - Dominiczak, Anna F
+AU  - Dominiczak AF
+AUID- ORCID: 0000-0003-4913-3608
+AD  - Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow G12 
+      8QQ, UK.
+FAU - Smith, Colin
+AU  - Smith C
+AD  - Academic Neuropathology, Centre for Clinical Brain Sciences, University of 
+      Edinburgh, Edinburgh EH16 4SB, UK.
+FAU - Wardlaw, Joanna M
+AU  - Wardlaw JM
+AUID- ORCID: 0000-0002-9812-6642
+AD  - Brain Research Imaging Centre, Centre for Clinical Brain Sciences, and UK Dementia 
+      Research Institute, University of Edinburgh, Edinburgh EH16 4SB, UK.
+FAU - Williams, Anna
+AU  - Williams A
+AUID- ORCID: 0000-0002-6329-382X
+AD  - Medical Research Council (MRC) Centre for Regenerative Medicine and UK Dementia 
+      Research Institute, University of Edinburgh, Edinburgh EH16 4UU, UK. 
+      anna.williams@ed.ac.uk.
+LA  - eng
+GR  - RE/13/5/30177/BHF_/British Heart Foundation/United Kingdom
+GR  - MR/K026992/1/MRC_/Medical Research Council/United Kingdom
+GR  - BB_/Biotechnology and Biological Sciences Research Council/United Kingdom
+GR  - MR/K017047/1/Medical Research Council/United Kingdom
+GR  - CZB/4/517/Chief Scientist Office/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Sci Transl Med
+JT  - Science translational medicine
+JID - 101505086
+RN  - 0 (HSP90 Heat-Shock Proteins)
+RN  - 0 (Membrane Transport Proteins)
+RN  - EC 3.6.1.- (ATP11B protein, human)
+RN  - EC 3.6.1.- (Adenosine Triphosphatases)
+SB  - IM
+MH  - Adenosine Triphosphatases/genetics
+MH  - Animals
+MH  - Blood-Brain Barrier/pathology/physiopathology
+MH  - Cell Proliferation
+MH  - Cerebral Small Vessel Diseases/*pathology/*physiopathology
+MH  - Disease Models, Animal
+MH  - Endothelial Cells/pathology
+MH  - Endothelium, Vascular/pathology/*physiopathology
+MH  - HSP90 Heat-Shock Proteins/metabolism
+MH  - Homozygote
+MH  - Humans
+MH  - Hypertension/pathology/physiopathology
+MH  - Membrane Transport Proteins/genetics
+MH  - Middle Aged
+MH  - Oligodendrocyte Precursor Cells/metabolism
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Rats
+MH  - White Matter/*pathology/physiopathology
+EDAT- 2018/07/06 06:00
+MHDA- 2019/10/08 06:00
+CRDT- 2018/07/06 06:00
+PHST- 2017/02/09 00:00 [received]
+PHST- 2018/01/31 00:00 [revised]
+PHST- 2018/06/08 00:00 [accepted]
+PHST- 2018/07/06 06:00 [entrez]
+PHST- 2018/07/06 06:00 [pubmed]
+PHST- 2019/10/08 06:00 [medline]
+AID - 10/448/eaam9507 [pii]
+AID - 10.1126/scitranslmed.aam9507 [doi]
+PST - ppublish
+SO  - Sci Transl Med. 2018 Jul 4;10(448):eaam9507. doi: 10.1126/scitranslmed.aam9507.
+
+PMID- 28470822
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190123
+LR  - 20190329
+IS  - 1750-3639 (Electronic)
+IS  - 1015-6305 (Print)
+IS  - 1015-6305 (Linking)
+VI  - 28
+IP  - 4
+DP  - 2018 Jul
+TI  - Pericyte-derived bone morphogenetic protein 4 underlies white matter damage after 
+      chronic hypoperfusion.
+PG  - 521-535
+LID - 10.1111/bpa.12523 [doi]
+AB  - Subcortical small vessel disease (SVD) is characterized by white matter damage 
+      resulting from arteriolosclerosis and chronic hypoperfusion. Transforming growth 
+      factor beta 1 (TGFB1) is dysregulated in the hereditary SVD, CARASIL (cerebral 
+      autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy). 
+      However, very little is known about the role of the largest group in the TGFB 
+      superfamily - the bone morphogenetic proteins (BMPs) - in SVD pathogenesis. The aim 
+      of this study was to characterize signaling abnormalities of BMPs in sporadic SVD. 
+      We examined immunostaining of TGFB1 and BMPs (BMP2/BMP4/BMP6/BMP7/BMP9) in a total 
+      of 19 post-mortem human brain samples as follows: 7 SVD patients (4 males, 76-90 
+      years old); 6 Alzheimer's disease (AD) patients (2 males, 67-93 years old) and 6 
+      age-matched disease controls (3 males, 68-78 years old). We subsequently 
+      investigated the effects of oxygen-glucose deprivation and BMP4 addition on cultured 
+      cells. Furthermore, adult mice were subjected to chronic cerebral hypoperfusion 
+      using bilateral common carotid artery stenosis, followed by continuous 
+      intracerebroventricular infusion of the BMP antagonist, noggin. In the SVD cases, 
+      BMP4 was highly expressed in white matter pericytes. Oxygen-glucose deprivation 
+      induced BMP4 expression in cultured pericytes in vitro. Recombinant BMP4 increased 
+      the number of cultured endothelial cells and pericytes and converted oligodendrocyte 
+      precursor cells into astrocytes. Chronic cerebral hypoperfusion in vivo also 
+      upregulated BMP4 with concomitant white matter astrogliogenesis and reduced 
+      oligodendrocyte lineage cells, both of which were suppressed by 
+      intracerebroventricular noggin infusion. Our findings suggest ischemic white matter 
+      damage evolves in parallel with BMP4 upregulation in pericytes. BMP4 promotes 
+      angiogenesis, but induces astrogliogenesis at the expense of oligodendrocyte 
+      precursor cell proliferation and maturation, thereby aggravating white matter 
+      damage. This may explain white matter vulnerability to chronic hypoperfusion. The 
+      regulation of BMP4 signaling is a potential therapeutic strategy for treating SVD.
+CI  - © 2017 The Authors. Brain Pathology published by John Wiley & Sons Ltd on behalf of 
+      International Society of Neuropathology.
+FAU - Uemura, Maiko T
+AU  - Uemura MT
+AUID- ORCID: 0000-0001-8356-1409
+AD  - Department of Neurology, Kyoto University Graduate School of Medicine, Kyoto, Japan.
+FAU - Ihara, Masafumi
+AU  - Ihara M
+AUID- ORCID: 0000-0002-7102-4048
+AD  - Department of Neurology, National Cerebral and Cardiovascular Center Hospital, 
+      Osaka, Japan.
+FAU - Maki, Takakuni
+AU  - Maki T
+AD  - Department of Neurology, Kyoto University Graduate School of Medicine, Kyoto, Japan.
+FAU - Nakagomi, Takayuki
+AU  - Nakagomi T
+AD  - Institute for Advanced Medical Sciences, Hyogo College of Medicine, Hyogo, Japan.
+FAU - Kaji, Seiji
+AU  - Kaji S
+AUID- ORCID: 0000-0001-7601-8897
+AD  - Department of Neurology, Kyoto University Graduate School of Medicine, Kyoto, Japan.
+FAU - Uemura, Kengo
+AU  - Uemura K
+AD  - Department of Neurology, Ishiki Hospital, Kagoshima, Japan.
+FAU - Matsuyama, Tomohiro
+AU  - Matsuyama T
+AD  - Institute for Advanced Medical Sciences, Hyogo College of Medicine, Hyogo, Japan.
+FAU - Kalaria, Raj N
+AU  - Kalaria RN
+AD  - Institute of Neuroscience, Newcastle University, Campus for Ageing and Vitality, 
+      Newcastle Upon Tyne, UK.
+FAU - Kinoshita, Ayae
+AU  - Kinoshita A
+AD  - School of Human Health Sciences, Kyoto University Graduate School of Medicine, 
+      Kyoto, Japan.
+FAU - Takahashi, Ryosuke
+AU  - Takahashi R
+AUID- ORCID: 0000-0002-1407-9640
+AD  - Department of Neurology, Kyoto University Graduate School of Medicine, Kyoto, Japan.
+LA  - eng
+GR  - G1100540/Medical Research Council/United Kingdom
+GR  - G0900652/Medical Research Council/United Kingdom
+GR  - G0502157/Medical Research Council/United Kingdom
+GR  - G0400074/Medical Research Council/United Kingdom
+GR  - G0500247/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170531
+TA  - Brain Pathol
+JT  - Brain pathology (Zurich, Switzerland)
+JID - 9216781
+RN  - 0 (BMP4 protein, human)
+RN  - 0 (Bone Morphogenetic Protein 4)
+RN  - 0 (Carrier Proteins)
+RN  - 148294-77-3 (noggin protein)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alzheimer Disease/metabolism/*pathology
+MH  - Animals
+MH  - Bone Morphogenetic Protein 4/*metabolism
+MH  - Brain/metabolism/*pathology
+MH  - Carrier Proteins
+MH  - Cell Proliferation
+MH  - Cells, Cultured
+MH  - Cerebrovascular Disorders/metabolism/*pathology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Myelin Sheath/pathology
+MH  - Pericytes/*metabolism
+MH  - White Matter/metabolism/*pathology
+PMC - PMC6099372
+EDAT- 2017/05/05 06:00
+MHDA- 2019/01/24 06:00
+CRDT- 2017/05/05 06:00
+PHST- 2016/10/07 00:00 [received]
+PHST- 2017/04/18 00:00 [accepted]
+PHST- 2017/05/05 06:00 [pubmed]
+PHST- 2019/01/24 06:00 [medline]
+PHST- 2017/05/05 06:00 [entrez]
+AID - BPA12523 [pii]
+AID - 10.1111/bpa.12523 [doi]
+PST - ppublish
+SO  - Brain Pathol. 2018 Jul;28(4):521-535. doi: 10.1111/bpa.12523. Epub 2017 May 31.
+
+PMID- 19826432
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100302
+LR  - 20181201
+IS  - 1559-7016 (Electronic)
+IS  - 0271-678X (Print)
+IS  - 0271-678X (Linking)
+VI  - 30
+IP  - 2
+DP  - 2010 Feb
+TI  - Phosphodiesterase III inhibition promotes differentiation and survival of 
+      oligodendrocyte progenitors and enhances regeneration of ischemic white matter 
+      lesions in the adult mammalian brain.
+PG  - 299-310
+LID - 10.1038/jcbfm.2009.210 [doi]
+AB  - Vascular dementia is caused by blockage of blood supply to the brain, which causes 
+      ischemia and subsequent lesions primarily in the white matter, a key characteristic 
+      of the disease. In this study, we used a chronic cerebral hypoperfusion rat model to 
+      show that the regeneration of white matter damaged by hypoperfusion is enhanced by 
+      inhibiting phosphodiesterase III. A rat model of chronic cerebral hypoperfusion was 
+      prepared by bilateral common carotid artery ligation. Performance at the Morris 
+      water-maze task, immunohistochemistry for bromodeoxyuridine, as well as serial 
+      neuronal and glial markers were analyzed until 28 days after hypoperfusion. There 
+      was a significant increase in the number of oligodendrocyte progenitor cells in the 
+      brains of patients with vascular dementia as well as in rats with cerebral 
+      hypoperfusion. The oligodendrocyte progenitor cells subsequently underwent cell 
+      death and the number of oligodendrocytes decreased. In the rat model, treatment with 
+      a phosphodiesterase III inhibitor prevented cell death, markedly increased the 
+      mature oligodendrocytes, and promoted restoration of white matter and recovery of 
+      cognitive decline. These effects were cancelled by using protein kinase A/C 
+      inhibitor in the phosphodiesterase III inhibitor group. The results of our study 
+      indicate that the mammalian brain white matter tissue has the capacity to regenerate 
+      after ischemic injury.
+FAU - Miyamoto, Nobukazu
+AU  - Miyamoto N
+AD  - Department of Neurology, Juntendo University School of Medicine, Tokyo, Japan.
+FAU - Tanaka, Ryota
+AU  - Tanaka R
+FAU - Shimura, Hideki
+AU  - Shimura H
+FAU - Watanabe, Terubumi
+AU  - Watanabe T
+FAU - Mori, Hideo
+AU  - Mori H
+FAU - Onodera, Masafumi
+AU  - Onodera M
+FAU - Mochizuki, Hideki
+AU  - Mochizuki H
+FAU - Hattori, Nobutaka
+AU  - Hattori N
+FAU - Urabe, Takao
+AU  - Urabe T
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20091014
+TA  - J Cereb Blood Flow Metab
+JT  - Journal of cerebral blood flow and metabolism : official journal of the 
+      International Society of Cerebral Blood Flow and Metabolism
+JID - 8112566
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Neuroprotective Agents)
+RN  - 0 (Phosphodiesterase 3 Inhibitors)
+RN  - 0 (Tetrazoles)
+RN  - N7Z035406B (Cilostazol)
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Brain/enzymology/pathology
+MH  - Brain Ischemia/enzymology/*pathology
+MH  - Cell Differentiation/drug effects
+MH  - Cilostazol
+MH  - Dementia, Vascular/enzymology/*pathology
+MH  - Enzyme Inhibitors/pharmacology
+MH  - Fluorescent Antibody Technique
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Male
+MH  - Maze Learning
+MH  - Nerve Regeneration/drug effects/*physiology
+MH  - Neuroprotective Agents/pharmacology
+MH  - Oligodendroglia/drug effects/enzymology/*pathology
+MH  - *Phosphodiesterase 3 Inhibitors
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Stem Cells/drug effects/enzymology/*pathology
+MH  - Tetrazoles/pharmacology
+PMC - PMC2949130
+EDAT- 2009/10/15 06:00
+MHDA- 2010/03/03 06:00
+CRDT- 2009/10/15 06:00
+PHST- 2009/10/15 06:00 [entrez]
+PHST- 2009/10/15 06:00 [pubmed]
+PHST- 2010/03/03 06:00 [medline]
+AID - jcbfm2009210 [pii]
+AID - 10.1038/jcbfm.2009.210 [doi]
+PST - ppublish
+SO  - J Cereb Blood Flow Metab. 2010 Feb;30(2):299-310. doi: 10.1038/jcbfm.2009.210. Epub 
+      2009 Oct 14.
+
+PMID- 23090919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130530
+LR  - 20171116
+IS  - 1098-1136 (Electronic)
+IS  - 0894-1491 (Linking)
+VI  - 61
+IP  - 2
+DP  - 2013 Feb
+TI  - Dynamic changes in myelin aberrations and oligodendrocyte generation in chronic 
+      amyloidosis in mice and men.
+PG  - 273-86
+LID - 10.1002/glia.22432 [doi]
+AB  - Myelin loss is frequently observed in human Alzheimer's disease (AD) and may 
+      constitute to AD-related cognitive decline. A potential source to repair myelin 
+      defects are the oligodendrocyte progenitor cells (OPCs) present in an adult brain. 
+      However, until now, little is known about the reaction of these cells toward amyloid 
+      plaque deposition neither in human AD patients nor in the appropriate mouse models. 
+      Therefore, we analyzed cells of the oligodendrocyte lineage in a mouse model with 
+      chronic plaque deposition (APPPS1 mice) and samples from human patients. In APPPS1 
+      mice defects in myelin integrity and myelin amount were prevalent at 6 months of age 
+      but normalized to control levels in 9-month-old mice. Concomitantly, we observed an 
+      increase in the proliferation and differentiation of OPCs in the APPPS1 mice at this 
+      specific time window (6-8 months) implying that improvements in myelin aberrations 
+      may result from repair mechanisms mediated by OPCs. However, while we observed a 
+      higher number of cells of the oligodendrocyte lineage (Olig2+ cells) in APPPS1 mice, 
+      OLIG2+ cells were decreased in number in postmortem human AD cortex. Our data 
+      demonstrate that oligodendrocyte progenitors specifically react to amyloid plaque 
+      deposition in an AD-related mouse model as well as in human AD pathology, although 
+      with distinct outcomes. Strikingly, possible repair mechanisms from newly generated 
+      oligodendrocytes are evident in APPPS1 mice, whereas a similar reaction of 
+      oligodendrocyte progenitors seems to be strongly limited in final stages of human AD 
+      pathology.
+CI  - Copyright © 2012 Wiley Periodicals, Inc.
+FAU - Behrendt, Gwendolyn
+AU  - Behrendt G
+AD  - Department of Physiological Genomics, Institute of Physiology, Ludwig-Maximilians 
+      University, Munich, Germany.
+FAU - Baer, Kristin
+AU  - Baer K
+FAU - Buffo, Annalisa
+AU  - Buffo A
+FAU - Curtis, Maurice A
+AU  - Curtis MA
+FAU - Faull, Richard L
+AU  - Faull RL
+FAU - Rees, Mark I
+AU  - Rees MI
+FAU - Götz, Magdalena
+AU  - Götz M
+FAU - Dimou, Leda
+AU  - Dimou L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20121022
+PL  - United States
+TA  - Glia
+JT  - Glia
+JID - 8806785
+RN  - 0 (Amyloid beta-Protein Precursor)
+RN  - 0 (Basic Helix-Loop-Helix Transcription Factors)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (OLIG2 protein, human)
+RN  - 0 (Oligodendrocyte Transcription Factor 2)
+RN  - 0 (PSEN1 protein, human)
+RN  - 0 (Presenilin-1)
+SB  - IM
+MH  - Adult
+MH  - Age Factors
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Alzheimer Disease/genetics/pathology
+MH  - Amyloid beta-Protein Precursor/genetics
+MH  - Amyloidosis/genetics/*pathology/*physiopathology
+MH  - Animals
+MH  - Basic Helix-Loop-Helix Transcription Factors/metabolism
+MH  - Brain/*metabolism/pathology
+MH  - Cell Differentiation/physiology
+MH  - *Cell Proliferation
+MH  - Disease Models, Animal
+MH  - Female
+MH  - Gene Expression Regulation/genetics
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Middle Aged
+MH  - Myelin Sheath/*pathology
+MH  - Nerve Tissue Proteins/metabolism
+MH  - Nonlinear Dynamics
+MH  - Oligodendrocyte Transcription Factor 2
+MH  - Oligodendroglia/*pathology
+MH  - Postmortem Changes
+MH  - Presenilin-1/genetics
+EDAT- 2012/10/24 06:00
+MHDA- 2013/06/01 06:00
+CRDT- 2012/10/24 06:00
+PHST- 2012/06/11 00:00 [received]
+PHST- 2012/09/11 00:00 [accepted]
+PHST- 2012/10/24 06:00 [entrez]
+PHST- 2012/10/24 06:00 [pubmed]
+PHST- 2013/06/01 06:00 [medline]
+AID - 10.1002/glia.22432 [doi]
+PST - ppublish
+SO  - Glia. 2013 Feb;61(2):273-86. doi: 10.1002/glia.22432. Epub 2012 Oct 22.
+
+PMID- 23720232
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140422
+LR  - 20181113
+IS  - 1754-8411 (Electronic)
+IS  - 1754-8403 (Print)
+IS  - 1754-8403 (Linking)
+VI  - 6
+IP  - 5
+DP  - 2013 Sep
+TI  - notch3 is essential for oligodendrocyte development and vascular integrity in 
+      zebrafish.
+PG  - 1246-59
+LID - 10.1242/dmm.012005 [doi]
+AB  - Mutations in the human NOTCH3 gene cause CADASIL syndrome (cerebral autosomal 
+      dominant arteriopathy with subcortical infarcts and leukoencephalopathy). CADASIL is 
+      an inherited small vessel disease characterized by diverse clinical manifestations 
+      including vasculopathy, neurodegeneration and dementia. Here we report two mutations 
+      in the zebrafish notch3 gene, one identified in a previous screen for mutations with 
+      reduced expression of myelin basic protein (mbp) and another caused by a retroviral 
+      insertion. Reduced mbp expression in notch3 mutant embryos is associated with fewer 
+      oligodendrocyte precursor cells (OPCs). Despite an early neurogenic phenotype, mbp 
+      expression recovered at later developmental stages and some notch3 homozygous 
+      mutants survived to adulthood. These mutants, as well as adult zebrafish carrying 
+      both mutant alleles together, displayed a striking stress-associated accumulation of 
+      blood in the head and fins. Histological analysis of mutant vessels revealed 
+      vasculopathy, including: an enlargement (dilation) of vessels in the telencephalon 
+      and fin, disorganization of the normal stereotyped arrangement of vessels in the 
+      fin, and an apparent loss of arterial morphological structure. Expression of hey1, a 
+      well-known transcriptional target of Notch signaling, was greatly reduced in notch3 
+      mutant fins, suggesting that Notch3 acts via a canonical Notch signaling pathway to 
+      promote normal vessel structure. Ultrastructural analysis confirmed the presence of 
+      dilated vessels in notch3 mutant fins and revealed that the vessel walls of presumed 
+      arteries showed signs of deterioration. Gaps in the arterial wall and the presence 
+      of blood cells outside of vessels in mutants indicated that compromised vessel 
+      structure led to hemorrhage. In notch3 heterozygotes, we found elevated expression 
+      of both notch3 itself and target genes, indicating that specific alterations in gene 
+      expression due to partial loss of Notch3 function might contribute to the 
+      abnormalities observed in heterozygous larvae and adults. Our analysis of zebrafish 
+      notch3 mutants indicates that Notch3 regulates OPC development and mbp gene 
+      expression in larvae, and maintains vascular integrity in adults.
+FAU - Zaucker, Andreas
+AU  - Zaucker A
+AD  - Department of Developmental and Molecular Biology, Albert Einstein College of 
+      Medicine, 1300 Morris Park Avenue, Bronx, NY 10461, USA.
+FAU - Mercurio, Sara
+AU  - Mercurio S
+FAU - Sternheim, Nitzan
+AU  - Sternheim N
+FAU - Talbot, William S
+AU  - Talbot WS
+FAU - Marlow, Florence L
+AU  - Marlow FL
+LA  - eng
+GR  - R01GM089979/GM/NIGMS NIH HHS/United States
+GR  - GFP03011/PHS HHS/United States
+GR  - R01 NS050223/NS/NINDS NIH HHS/United States
+GR  - Howard Hughes Medical Institute/United States
+GR  - R01 GM089979/GM/NIGMS NIH HHS/United States
+GR  - GFP03011/Telethon/Italy
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130529
+TA  - Dis Model Mech
+JT  - Disease models & mechanisms
+JID - 101483332
+RN  - 0 (Myelin Basic Protein)
+RN  - 0 (Notch3 protein, zebrafish)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (Receptor, Notch3)
+RN  - 0 (Receptors, Notch)
+RN  - 0 (Zebrafish Proteins)
+SB  - IM
+MH  - Animals
+MH  - Apoptosis
+MH  - Blood Vessels/growth & development/*metabolism/pathology/physiopathology
+MH  - Body Patterning/genetics
+MH  - Hemorrhage/metabolism/pathology/physiopathology
+MH  - Heterozygote
+MH  - Humans
+MH  - Larva/metabolism
+MH  - Mutation/genetics
+MH  - Myelin Basic Protein/genetics/metabolism
+MH  - Neurogenesis
+MH  - Oligodendroglia/cytology/metabolism
+MH  - Phenotype
+MH  - RNA, Messenger/genetics/metabolism
+MH  - Receptor, Notch3
+MH  - Receptors, Notch/genetics/*metabolism
+MH  - Telencephalon/blood supply/metabolism/pathology/physiopathology
+MH  - Vasodilation
+MH  - Zebrafish/embryology/genetics
+MH  - Zebrafish Proteins/genetics/*metabolism
+PMC - PMC3759344
+EDAT- 2013/05/31 06:00
+MHDA- 2014/04/23 06:00
+CRDT- 2013/05/31 06:00
+PHST- 2013/05/31 06:00 [entrez]
+PHST- 2013/05/31 06:00 [pubmed]
+PHST- 2014/04/23 06:00 [medline]
+AID - dmm.012005 [pii]
+AID - 0061246 [pii]
+AID - 10.1242/dmm.012005 [doi]
+PST - ppublish
+SO  - Dis Model Mech. 2013 Sep;6(5):1246-59. doi: 10.1242/dmm.012005. Epub 2013 May 29.
+
+PMID- 20590831
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20101021
+LR  - 20171116
+IS  - 1447-0594 (Electronic)
+IS  - 1447-0594 (Linking)
+VI  - 10 Suppl 1
+DP  - 2010 Jul
+TI  - Molecular mechanisms of regeneration in Alzheimer's disease brain.
+PG  - S158-68
+LID - 10.1111/j.1447-0594.2010.00607.x [doi]
+AB  - Regenerative responses, including re-expression of developmentally regulated 
+      proteins, occur in Alzheimer's disease (AD) brain and in beta-amyloid 
+      (Abeta)-treated neuronal cultures. Brain microenvironment might also be altered by 
+      Abeta or by unknown materials in AD brain to make neurons or progenitor cells 
+      regenerative. However, these responses and alterations might not be sufficient to 
+      replace neuronal loss, but rather might act as an effecter of cell death. For 
+      instance, downregulation of growth inhibitory factor/metallothionein-III and 
+      upregulation of MAP1B result in both neurite sprouting and neuronal death. The 
+      deteriorative regulation of Mash1 and Olig2 by Abeta also leads to differentiation 
+      and death of progenitor cells. Clarifying the cell death mechanism accompanied with 
+      regenerative responses might be necessary for repairing the nervous system or 
+      slowing disease progression in AD.
+FAU - Uchida, Yoko
+AU  - Uchida Y
+AD  - Tokyo Metropolitan Institute of Gerontology, Itabashiku, Tokyo, Japan. 
+      57uchida@tmig.or.jp
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - Japan
+TA  - Geriatr Gerontol Int
+JT  - Geriatrics & gerontology international
+JID - 101135738
+RN  - 0 (ASCL1 protein, human)
+RN  - 0 (Basic Helix-Loop-Helix Transcription Factors)
+RN  - 0 (Growth Inhibitors)
+RN  - 0 (Microtubule-Associated Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (OLIG2 protein, human)
+RN  - 0 (Oligodendrocyte Transcription Factor 2)
+RN  - 0 (growth inhibitory factor)
+RN  - 0 (microtubule-associated protein 1B)
+SB  - IM
+MH  - Alzheimer Disease/pathology/*physiopathology
+MH  - Animals
+MH  - Apoptosis/physiology
+MH  - Basic Helix-Loop-Helix Transcription Factors/physiology
+MH  - Brain/pathology/*physiopathology
+MH  - Cell Death/physiology
+MH  - Down-Regulation/physiology
+MH  - Growth Inhibitors/physiology
+MH  - Humans
+MH  - Microtubule-Associated Proteins/physiology
+MH  - Nerve Tissue Proteins/physiology
+MH  - Neurons/physiology
+MH  - Oligodendrocyte Transcription Factor 2
+MH  - Regeneration
+EDAT- 2010/07/16 06:00
+MHDA- 2010/10/22 06:00
+CRDT- 2010/07/02 06:00
+PHST- 2010/07/02 06:00 [entrez]
+PHST- 2010/07/16 06:00 [pubmed]
+PHST- 2010/10/22 06:00 [medline]
+AID - GGI607 [pii]
+AID - 10.1111/j.1447-0594.2010.00607.x [doi]
+PST - ppublish
+SO  - Geriatr Gerontol Int. 2010 Jul;10 Suppl 1:S158-68. doi: 
+      10.1111/j.1447-0594.2010.00607.x.
+
+PMID- 23196463
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140421
+LR  - 20190918
+IS  - 1882-0654 (Electronic)
+IS  - 0009-918X (Linking)
+VI  - 52
+IP  - 11
+DP  - 2012
+TI  - [Molecular mechanism and new protective strategy for ischemic white matter damages].
+PG  - 908-10
+AB  - Brain white matter lesions (WMLs), which are often observed in patients with 
+      ischemic cerebrovascular diseases, contribute to cognitive decline. We analyzed the 
+      pathologic and regenerative processes in brain white matter lesions of patients 
+      diagnosed with vascular dementia. There was a significant increase in the number of 
+      oligodendrocyte progenitor cells (OPCs) in the brains of patients with vascular 
+      dementia as well as in rats with cerebral hypoperfusion. WMLs can be induced 
+      experimentally by bilateral common carotid artery ligation (BCCAL) of rats to cause 
+      chronic cerebral ischemia. After chronic cerebral hypoperfusion injury, oxygen free 
+      radicals and activated microglia acting as inflammatory elements contribute to 
+      chronic cerebral hypoperfusion-induced WMLs. The cell death of oligodendrocytes 
+      (OLGs) contributes directly to WMLs. The activation for intracellular signaling 
+      pathway of cAMP responsive element binding protein (CREB) phosphorylation in the 
+      white matter was suppressed after BCCAL. Type III phosphodiesterase inhibitor 
+      (PDE3-I) has potential therapeutic and brain-protective effects based on multitarget 
+      mechanism through cell signaling pathway of CREB phosphorylation. The OPCs 
+      subsequently underwent cell death and the number of OLGs decreased. In the rat 
+      model, PDE3-I prevented cell death, markedly increased the mature OLGs, and promoted 
+      restoration of white matter and recovery of cognitive decline.
+FAU - Urabe, Takao
+AU  - Urabe T
+AD  - Department of Neurology, Juntendo University.
+LA  - jpn
+PT  - English Abstract
+PT  - Journal Article
+PL  - Japan
+TA  - Rinsho Shinkeigaku
+JT  - Rinsho shinkeigaku = Clinical neurology
+JID - 0417466
+SB  - IM
+MH  - Animals
+MH  - Brain Ischemia/pathology/*physiopathology
+MH  - Humans
+MH  - Oligodendroglia/physiology
+MH  - Rats
+EDAT- 2012/12/01 06:00
+MHDA- 2014/04/22 06:00
+CRDT- 2012/12/01 06:00
+PHST- 2012/12/01 06:00 [entrez]
+PHST- 2012/12/01 06:00 [pubmed]
+PHST- 2014/04/22 06:00 [medline]
+AID - DN/JST.JSTAGE/clinicalneurol/52.908 [pii]
+AID - 10.5692/clinicalneurol.52.908 [doi]
+PST - ppublish
+SO  - Rinsho Shinkeigaku. 2012;52(11):908-10. doi: 10.5692/clinicalneurol.52.908.
+
+PMID- 16533591
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060526
+LR  - 20061115
+IS  - 0891-0618 (Print)
+IS  - 0891-0618 (Linking)
+VI  - 31
+IP  - 3
+DP  - 2006 Apr
+TI  - A novel population of progenitor cells expressing cannabinoid receptors in the 
+      subependymal layer of the adult normal and Huntington's disease human brain.
+PG  - 210-5
+AB  - Progenitor cells in the adult human brain subependymal layer are capable of 
+      producing new neurons and glial cells that may be useful as a source of cells for 
+      endogenous cell replacement for regions of the brain that undergo degeneration due 
+      to a neurodegenerative disease such as Huntington's disease, Parkinson's disease or 
+      Alzheimer's disease. We have previously demonstrated that in the human Huntington's 
+      disease brain there are increased numbers of progenitor cells proportional to the 
+      severity of the gene defect responsible for the disease and proportional to the 
+      severity of the pathology of the disease. One of the criticisms of a potential 
+      endogenous progenitor cell replacement therapy has been that the endogenous 
+      progenitor cells also contain the Huntington's disease gene and would therefore be 
+      just as susceptible to degeneration as those in the degenerate brain region. In the 
+      present study we have demonstrated the presence of cannabinoid CB1 receptors, which 
+      are preferentially lost in Huntington's disease, colocalised with the proliferative 
+      marker PCNA in the adult normal and Huntington's disease subependymal layer. This 
+      population of CB1 positive cells only colabels with PCNA and not with neuronal, 
+      glial, microglial or oligodendrocyte markers. These results indicate that the 
+      subependymal layer in Huntington's disease contains a subpopulation of proliferating 
+      cells that are also CB1 receptor positive and are thus not immediately susceptible 
+      to the neurodegenerative process that denudes the striatum of CB1 receptors. This 
+      finding raises the intriguing possibility that these cells could provide a suitable 
+      source of cells for the endogenous replacement of cells lost due to 
+      neurodegenerative disease.
+FAU - Curtis, Maurice A
+AU  - Curtis MA
+AD  - Department of Anatomy with Radiology, The University of Auckland, 85 Park Road, 
+      Private Bag 92019, Grafton, Auckland, New Zealand.
+FAU - Faull, Richard L M
+AU  - Faull RL
+FAU - Glass, Michelle
+AU  - Glass M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20060314
+PL  - Netherlands
+TA  - J Chem Neuroanat
+JT  - Journal of chemical neuroanatomy
+JID - 8902615
+RN  - 0 (Proliferating Cell Nuclear Antigen)
+RN  - 0 (Receptor, Cannabinoid, CB1)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Ependyma/*cytology/metabolism/pathology
+MH  - Female
+MH  - Humans
+MH  - Huntington Disease/*metabolism/pathology
+MH  - In Situ Nick-End Labeling
+MH  - Male
+MH  - Microscopy, Confocal
+MH  - Middle Aged
+MH  - Proliferating Cell Nuclear Antigen/metabolism
+MH  - Receptor, Cannabinoid, CB1/*metabolism
+MH  - Stem Cells/*metabolism
+EDAT- 2006/03/15 09:00
+MHDA- 2006/05/27 09:00
+CRDT- 2006/03/15 09:00
+PHST- 2005/10/25 00:00 [received]
+PHST- 2006/01/19 00:00 [revised]
+PHST- 2006/01/27 00:00 [accepted]
+PHST- 2006/03/15 09:00 [pubmed]
+PHST- 2006/05/27 09:00 [medline]
+PHST- 2006/03/15 09:00 [entrez]
+AID - S0891-0618(06)00015-9 [pii]
+AID - 10.1016/j.jchemneu.2006.01.005 [doi]
+PST - ppublish
+SO  - J Chem Neuroanat. 2006 Apr;31(3):210-5. doi: 10.1016/j.jchemneu.2006.01.005. Epub 
+      2006 Mar 14.
+
+PMID- 27956620
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180413
+LR  - 20181113
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 113
+IP  - 52
+DP  - 2016 Dec 27
+TI  - Nogo receptor blockade overcomes remyelination failure after white matter stroke and 
+      stimulates functional recovery in aged mice.
+PG  - E8453-E8462
+LID - 10.1073/pnas.1615322113 [doi]
+AB  - White matter stroke is a distinct stroke subtype, accounting for up to 25% of stroke 
+      and constituting the second leading cause of dementia. The biology of possible 
+      tissue repair after white matter stroke has not been determined. In a mouse stroke 
+      model, white matter ischemia causes focal damage and adjacent areas of axonal myelin 
+      disruption and gliosis. In these areas of only partial damage, local white matter 
+      progenitors respond to injury, as oligodendrocyte progenitors (OPCs) proliferate. 
+      However, OPCs fail to mature into oligodendrocytes (OLs) even in regions of 
+      demyelination with intact axons and instead divert into an astrocytic fate. Local 
+      axonal sprouting occurs, producing an increase in unmyelinated fibers in the corpus 
+      callosum. The OPC maturation block after white matter stroke is in part mediated via 
+      Nogo receptor 1 (NgR1) signaling. In both aged and young adult mice, stroke induces 
+      NgR1 ligands and down-regulates NgR1 inhibitors during the peak OPC maturation 
+      block. Nogo ligands are also induced adjacent to human white matter stroke in 
+      humans. A Nogo signaling blockade with an NgR1 antagonist administered after stroke 
+      reduces the OPC astrocytic transformation and improves poststroke oligodendrogenesis 
+      in mice. Notably, increased white matter repair in aged mice is translated into 
+      significant poststroke motor recovery, even when NgR1 blockade is provided during 
+      the chronic time points of injury. These data provide a perspective on the role of 
+      NgR1 ligand function in OPC fate in the context of a specific and common type of 
+      stroke and show that it is amenable to systemic intervention to promote recovery.
+FAU - Sozmen, Elif G
+AU  - Sozmen EG
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Rosenzweig, Shira
+AU  - Rosenzweig S
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Llorente, Irene L
+AU  - Llorente IL
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - DiTullio, David J
+AU  - DiTullio DJ
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Machnicki, Michal
+AU  - Machnicki M
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Vinters, Harry V
+AU  - Vinters HV
+AD  - Department of Neuropathology, David Geffen School of Medicine at UCLA, Los Angeles, 
+      CA 90095.
+FAU - Havton, Lief A
+AU  - Havton LA
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Giger, Roman J
+AU  - Giger RJ
+AD  - Department of Cell and Developmental Biology, University of Michigan School of 
+      Medicine, Ann Arbor, MI 48109.
+FAU - Hinman, Jason D
+AU  - Hinman JD
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095.
+FAU - Carmichael, S Thomas
+AU  - Carmichael ST
+AUID- ORCID: 0000-0002-1169-9203
+AD  - Department of Neurology, David Geffen School of Medicine at UCLA, Los Angeles, CA 
+      90095; scarmichael@mednet.ucla.edu.
+LA  - eng
+GR  - F31 NS076025/NS/NINDS NIH HHS/United States
+GR  - K08 NS083740/NS/NINDS NIH HHS/United States
+GR  - R01 NS071481/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20161212
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+RN  - 0 (Ligands)
+RN  - 0 (Nogo Receptor 1)
+RN  - 0 (RTN4R protein, human)
+RN  - 0 (Rtn4r protein, mouse)
+SB  - IM
+MH  - *Aging
+MH  - Animals
+MH  - Astrocytes/cytology/metabolism
+MH  - Axons/metabolism
+MH  - Brain/pathology
+MH  - Cell Differentiation
+MH  - Demyelinating Diseases
+MH  - Disease Models, Animal
+MH  - Humans
+MH  - Ligands
+MH  - Mice
+MH  - Mice, Transgenic
+MH  - Myelin Sheath/*chemistry
+MH  - Nogo Receptor 1/*metabolism
+MH  - Oligodendroglia/cytology
+MH  - Remyelination
+MH  - Stem Cells/cytology
+MH  - Stroke/*physiopathology
+MH  - Stroke Rehabilitation
+MH  - White Matter/*metabolism/pathology
+PMC - PMC5206535
+OTO - NOTNLM
+OT  - *astrocyte
+OT  - *oligodendrocyte
+OT  - *oligodendrocyte progenitor cell
+OT  - *repair
+OT  - *subventricular zone
+COIS- The authors declare no conflict of interest.
+EDAT- 2016/12/14 06:00
+MHDA- 2018/04/14 06:00
+CRDT- 2016/12/14 06:00
+PHST- 2016/12/14 06:00 [pubmed]
+PHST- 2018/04/14 06:00 [medline]
+PHST- 2016/12/14 06:00 [entrez]
+AID - 1615322113 [pii]
+AID - 201615322 [pii]
+AID - 10.1073/pnas.1615322113 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2016 Dec 27;113(52):E8453-E8462. doi: 
+      10.1073/pnas.1615322113. Epub 2016 Dec 12.
+
+PMID- 28482862
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171213
+LR  - 20181113
+IS  - 2051-5960 (Electronic)
+IS  - 2051-5960 (Linking)
+VI  - 5
+IP  - 1
+DP  - 2017 May 8
+TI  - Higher levels of myelin phospholipids in brains of neuronal α-Synuclein transgenic 
+      mice precede myelin loss.
+PG  - 37
+LID - 10.1186/s40478-017-0439-3 [doi]
+LID - 37
+AB  - α-Synuclein is a protein involved in the pathogenesis of synucleinopathies, 
+      including Parkinson's disease (PD), dementia with Lewy bodies (DLB) and multiple 
+      system atrophy (MSA). We investigated the role of neuronal α-Syn in myelin 
+      composition and abnormalities. The phospholipid content of purified myelin was 
+      determined by (31)P NMR in two mouse lines modeling PD, PrP-A53T α-Syn and Thy-1 
+      wt-α-Syn. Significantly higher levels of phospholipids were detected in myelin 
+      purified from brains of these α-Syn transgenic mouse models than in control mice. 
+      Nevertheless, myelin ultrastructure appeared intact. To further investigate the 
+      effect of α-Syn on myelin abnormalities, we systematically analyzed the striatum, a 
+      brain region associated with neurodegeneration in PD. An age and disease-dependent 
+      loss of myelin basic protein (MBP) signal was detected by immunohistochemistry in 
+      striatal striosomes (patches). The age-dependent loss of MBP signal was associated 
+      with lower P25α levels in oligodendrocytes. In addition, we found that α-Syn 
+      inhibited oligodendrocyte maturation and the formation of membranous sheets in 
+      vitro. Based on these results we concluded that neuronal α-Syn is involved in the 
+      regulation and/or maintenance of myelin phospholipid. However, axonal 
+      hypomyelination in the PD models is evident only in progressive stages of the 
+      disease and associated with α-Syn toxicity.
+FAU - Grigoletto, Jessica
+AU  - Grigoletto J
+AD  - Biochemistry and Molecular Biology, IMRIC, The Hebrew University-Hadassah Medical 
+      School, Ein Kerem, 9112001, Jerusalem, Israel.
+FAU - Pukaß, Katharina
+AU  - Pukaß K
+AD  - Department of Neuroscience, Molecular Neurobiology, University of Oldenburg, 
+      D-26111, Oldenburg, Germany.
+FAU - Gamliel, Ayelet
+AU  - Gamliel A
+AD  - Department of Radiology, Hadassah-Hebrew University Medical Center, Ein Kerem, 
+      9112001, Jerusalem, Israel.
+FAU - Davidi, Dana
+AU  - Davidi D
+AD  - Biochemistry and Molecular Biology, IMRIC, The Hebrew University-Hadassah Medical 
+      School, Ein Kerem, 9112001, Jerusalem, Israel.
+FAU - Katz-Brull, Rachel
+AU  - Katz-Brull R
+AD  - Department of Radiology, Hadassah-Hebrew University Medical Center, Ein Kerem, 
+      9112001, Jerusalem, Israel.
+FAU - Richter-Landsberg, Christiane
+AU  - Richter-Landsberg C
+AD  - Department of Neuroscience, Molecular Neurobiology, University of Oldenburg, 
+      D-26111, Oldenburg, Germany.
+FAU - Sharon, Ronit
+AU  - Sharon R
+AUID- ORCID: 0000-0003-4760-0129
+AD  - Biochemistry and Molecular Biology, IMRIC, The Hebrew University-Hadassah Medical 
+      School, Ein Kerem, 9112001, Jerusalem, Israel. ronitsh@ekmd.huji.ac.il.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170508
+TA  - Acta Neuropathol Commun
+JT  - Acta neuropathologica communications
+JID - 101610673
+RN  - 0 (APP protein, human)
+RN  - 0 (Amyloid beta-Protein Precursor)
+RN  - 0 (Mbp protein, mouse)
+RN  - 0 (Myelin Basic Protein)
+RN  - 0 (PSEN1 protein, human)
+RN  - 0 (Phospholipids)
+RN  - 0 (Presenilin-1)
+RN  - 0 (SNCA protein, human)
+RN  - 0 (Snca protein, mouse)
+RN  - 0 (alpha-Synuclein)
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Aging/metabolism/pathology
+MH  - Alzheimer Disease/metabolism/pathology
+MH  - Amyloid beta-Protein Precursor/genetics/metabolism
+MH  - Animals
+MH  - Brain/*metabolism/pathology/ultrastructure
+MH  - Cells, Cultured
+MH  - Disease Models, Animal
+MH  - Female
+MH  - Humans
+MH  - Mice, Inbred C57BL
+MH  - Mice, Inbred DBA
+MH  - Mice, Transgenic
+MH  - Myelin Basic Protein/metabolism
+MH  - Myelin Sheath/*metabolism/pathology/ultrastructure
+MH  - Neurons/*metabolism/pathology/ultrastructure
+MH  - Parkinson Disease/metabolism/pathology
+MH  - Phospholipids/*metabolism
+MH  - Presenilin-1/genetics/metabolism
+MH  - alpha-Synuclein/deficiency/genetics/*metabolism
+PMC - PMC5421332
+OTO - NOTNLM
+OT  - *Myelin
+OT  - *Parkinson’s disease
+OT  - *Phospholipids
+OT  - *α-Synuclein
+EDAT- 2017/05/10 06:00
+MHDA- 2017/12/14 06:00
+CRDT- 2017/05/10 06:00
+PHST- 2017/04/06 00:00 [received]
+PHST- 2017/04/26 00:00 [accepted]
+PHST- 2017/05/10 06:00 [entrez]
+PHST- 2017/05/10 06:00 [pubmed]
+PHST- 2017/12/14 06:00 [medline]
+AID - 10.1186/s40478-017-0439-3 [pii]
+AID - 439 [pii]
+AID - 10.1186/s40478-017-0439-3 [doi]
+PST - epublish
+SO  - Acta Neuropathol Commun. 2017 May 8;5(1):37. doi: 10.1186/s40478-017-0439-3.
+
+PMID- 20668182
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100820
+LR  - 20200225
+IS  - 1529-2401 (Electronic)
+IS  - 0270-6474 (Print)
+IS  - 0270-6474 (Linking)
+VI  - 30
+IP  - 30
+DP  - 2010 Jul 28
+TI  - Cell-mediated neuroprotection in a mouse model of human tauopathy.
+PG  - 9973-83
+LID - 10.1523/JNEUROSCI.0834-10.2010 [doi]
+AB  - Tau protein in a hyperphosphorylated state makes up the intracellular inclusions of 
+      several neurodegenerative diseases, including Alzheimer's disease and cases of 
+      frontotemporal dementia. Mutations in Tau cause familial forms of frontotemporal 
+      dementia, establishing that dysfunction of tau protein is sufficient to cause 
+      neurodegeneration and dementia. Transgenic mice expressing human mutant tau in 
+      neurons exhibit the essential features of tauopathies, including neurodegeneration 
+      and abundant filaments composed of hyperphosphorylated tau. Here we show that a 
+      previously described mouse line transgenic for human P301S tau exhibits an 
+      age-related, layer-specific loss of superficial cortical neurons, similar to what 
+      has been observed in human frontotemporal dementias. We also show that focal neural 
+      precursor cell implantation, resulting in glial cell differentiation, leads to the 
+      sustained rescue of cortical neurons. Together with evidence indicating that 
+      astrocyte transplantation may be neuroprotective, our findings suggest a beneficial 
+      role for glial cell-based repair in neurodegenerative diseases.
+FAU - Hampton, David W
+AU  - Hampton DW
+AD  - Euan MacDonald Centre for Motor Neurone Disease Research, Centre for Regenerative 
+      Medicine, University of Edinburgh, Edinburgh, United Kingdom.
+FAU - Webber, Daniel J
+AU  - Webber DJ
+FAU - Bilican, Bilada
+AU  - Bilican B
+FAU - Goedert, Michel
+AU  - Goedert M
+FAU - Spillantini, Maria Grazia
+AU  - Spillantini MG
+FAU - Chandran, Siddharthan
+AU  - Chandran S
+LA  - eng
+GR  - MC_U105184291/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TA  - J Neurosci
+JT  - The Journal of neuroscience : the official journal of the Society for Neuroscience
+JID - 8102140
+RN  - 0 (Basic Helix-Loop-Helix Transcription Factors)
+RN  - 0 (Cux2 protein, mouse)
+RN  - 0 (Glial Cell Line-Derived Neurotrophic Factor)
+RN  - 0 (Homeodomain Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Olig2 protein, mouse)
+RN  - 0 (Oligodendrocyte Transcription Factor 2)
+RN  - 0 (RNA, Messenger)
+RN  - 0 (enhanced green fluorescent protein)
+RN  - 0 (tau Proteins)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+RN  - 452VLY9402 (Serine)
+RN  - 56-12-2 (gamma-Aminobutyric Acid)
+RN  - 9061-61-4 (Nerve Growth Factor)
+RN  - 9DLQ4CIU6V (Proline)
+SB  - IM
+MH  - Age Factors
+MH  - Animals
+MH  - Basic Helix-Loop-Helix Transcription Factors/metabolism
+MH  - Cell Differentiation/genetics
+MH  - *Cell Transplantation
+MH  - *Cell- and Tissue-Based Therapy
+MH  - Cells, Cultured
+MH  - Cerebral Cortex/pathology
+MH  - *Disease Models, Animal
+MH  - Female
+MH  - Gene Expression Regulation/genetics
+MH  - Glial Cell Line-Derived Neurotrophic Factor/genetics/metabolism
+MH  - Green Fluorescent Proteins/genetics
+MH  - Homeodomain Proteins/metabolism
+MH  - Humans
+MH  - Male
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Mutation
+MH  - Nerve Growth Factor/genetics/metabolism
+MH  - Nerve Tissue Proteins/metabolism
+MH  - Neurons/*physiology
+MH  - Oligodendrocyte Transcription Factor 2
+MH  - Proline/genetics
+MH  - RNA, Messenger/metabolism
+MH  - Serine/genetics
+MH  - Stem Cells/physiology
+MH  - Tauopathies/*therapy
+MH  - gamma-Aminobutyric Acid/metabolism
+MH  - tau Proteins/genetics
+PMC - PMC6633376
+EDAT- 2010/07/30 06:00
+MHDA- 2010/08/21 06:00
+CRDT- 2010/07/30 06:00
+PHST- 2010/07/30 06:00 [entrez]
+PHST- 2010/07/30 06:00 [pubmed]
+PHST- 2010/08/21 06:00 [medline]
+AID - 30/30/9973 [pii]
+AID - 3617435 [pii]
+AID - 10.1523/JNEUROSCI.0834-10.2010 [doi]
+PST - ppublish
+SO  - J Neurosci. 2010 Jul 28;30(30):9973-83. doi: 10.1523/JNEUROSCI.0834-10.2010.
+
+PMID- 22262260
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120612
+LR  - 20171116
+IS  - 1098-1136 (Electronic)
+IS  - 0894-1491 (Linking)
+VI  - 60
+IP  - 4
+DP  - 2012 Apr
+TI  - Differential cell proliferation in the cortex of the APPswePS1dE9 Alzheimer's 
+      disease mouse model.
+PG  - 615-29
+LID - 10.1002/glia.22295 [doi]
+AB  - Plaque deposition in Alzheimer's disease (AD) is known to decrease proliferation in 
+      neurogenic niches in AD mouse models, but the effects on cell proliferation and 
+      differentiation in other brain areas have not been studied in detail. We analyzed 
+      cell proliferation in the cortex of wild type (WT) and APPswePS1dE9 transgenic (AD) 
+      mice at different ages. Mice were studied shortly after the last BrdU injection 
+      (BrdU[ST]). In AD mice, the number of proliferating cells increased fourfold, 
+      coinciding with plaque appearance and its associated reactive gliosis and activation 
+      of microglia. An increase in the number of BrdU[ST]-cells expressing markers for 
+      activated microglia is underlying the enhanced proliferation. Cortical reactive 
+      astrocytes did not become proliferative since BrdU[ST]-cells were negative for 
+      different astrocyte-specific markers. The number of Olig2-positive oligodendrocyte 
+      precursor cells was unchanged. Four weeks after the last BrdU application, the 
+      number of BrdU[LT]-cells with an activated microglia signature was still enhanced in 
+      AD mice. None of the newborn cells had differentiated into oligodendrocytes, 
+      astrocytes, or neurons. On the basis of these observations, we conclude that amyloid 
+      plaque deposition increases proliferation of microglia around plaques but does not 
+      affect the proliferation of cortical oligodendrocyte precursor cells. No evidence 
+      was found for damage-induced proliferation of reactive astrocytes or for a 
+      redirected neurogenesis from the subventricular zone. The proliferation of microglia 
+      contributes to the rapid accumulation of microglia around plaques and may play a 
+      role in limitating plaque expansion.
+CI  - Copyright © 2011 Wiley Periodicals, Inc.
+FAU - Kamphuis, Willem
+AU  - Kamphuis W
+AD  - Netherlands Institute for Neuroscience-an Institute of the Royal Netherlands Academy 
+      of Arts and Sciences (KNAW), Department of Astrocyte Biology and Neurodegeneration, 
+      Meibergdreef 47, 1105 BA, Amsterdam, The Netherlands. w.kamphuis@nin.knaw.nl
+FAU - Orre, Marie
+AU  - Orre M
+FAU - Kooijman, Lieneke
+AU  - Kooijman L
+FAU - Dahmen, Maurice
+AU  - Dahmen M
+FAU - Hol, Elly M
+AU  - Hol EM
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120119
+PL  - United States
+TA  - Glia
+JT  - Glia
+JID - 8806785
+RN  - 0 (Aif1 protein, mouse)
+RN  - 0 (Amyloid beta-Protein Precursor)
+RN  - 0 (Basic Helix-Loop-Helix Transcription Factors)
+RN  - 0 (CD3 Complex)
+RN  - 0 (Calcium-Binding Proteins)
+RN  - 0 (Ki-67 Antigen)
+RN  - 0 (Microfilament Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Olig2 protein, mouse)
+RN  - 0 (Oligodendrocyte Transcription Factor 2)
+RN  - 0 (PSEN1 protein, human)
+RN  - 0 (Presenilin-1)
+RN  - 0 (SOXB1 Transcription Factors)
+RN  - 0 (Sox2 protein, mouse)
+RN  - G34N38R2N1 (Bromodeoxyuridine)
+SB  - IM
+MH  - Age Factors
+MH  - Alzheimer Disease/complications/genetics/*pathology
+MH  - Amyloid beta-Protein Precursor/genetics
+MH  - Animals
+MH  - Basic Helix-Loop-Helix Transcription Factors/genetics/metabolism
+MH  - Bromodeoxyuridine/metabolism
+MH  - CD3 Complex/metabolism
+MH  - Calcium-Binding Proteins/metabolism
+MH  - Cell Differentiation/genetics
+MH  - *Cell Proliferation
+MH  - Cerebral Cortex/*pathology
+MH  - Disease Models, Animal
+MH  - Gene Expression Regulation/*genetics
+MH  - Gliosis/etiology
+MH  - Humans
+MH  - Ki-67 Antigen/genetics/metabolism
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Microfilament Proteins/metabolism
+MH  - Nerve Tissue Proteins/genetics/metabolism
+MH  - Neuroglia/metabolism
+MH  - Neurons/metabolism
+MH  - Oligodendrocyte Transcription Factor 2
+MH  - Presenilin-1/genetics
+MH  - SOXB1 Transcription Factors/genetics/metabolism
+MH  - Sequence Deletion/genetics
+EDAT- 2012/01/21 06:00
+MHDA- 2012/06/13 06:00
+CRDT- 2012/01/21 06:00
+PHST- 2011/09/25 00:00 [received]
+PHST- 2011/12/21 00:00 [accepted]
+PHST- 2012/01/21 06:00 [entrez]
+PHST- 2012/01/21 06:00 [pubmed]
+PHST- 2012/06/13 06:00 [medline]
+AID - 10.1002/glia.22295 [doi]
+PST - ppublish
+SO  - Glia. 2012 Apr;60(4):615-29. doi: 10.1002/glia.22295. Epub 2012 Jan 19.
+
+PMID- 25609071
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151222
+LR  - 20181113
+IS  - 1460-2083 (Electronic)
+IS  - 0964-6906 (Print)
+IS  - 0964-6906 (Linking)
+VI  - 24
+IP  - 9
+DP  - 2015 May 1
+TI  - Early white matter abnormalities, progressive brain pathology and motor deficits in 
+      a novel knock-in mouse model of Huntington's disease.
+PG  - 2508-27
+LID - 10.1093/hmg/ddv016 [doi]
+AB  - White matter abnormalities have been reported in premanifest Huntington's disease 
+      (HD) subjects before overt striatal neuronal loss, but whether the white matter 
+      changes represent a necessary step towards further pathology and the underlying 
+      mechanism of these changes remains unknown. Here, we characterized a novel knock-in 
+      mouse model that expresses mouse HD gene homolog (Hdh) with extended CAG repeat- 
+      HdhQ250, which was derived from the selective breeding of HdhQ150 mice. HdhQ250 mice 
+      manifest an accelerated and robust phenotype compared with its parent line. HdhQ250 
+      mice exhibit progressive motor deficits, reduction in striatal and cortical volume, 
+      accumulation of mutant huntingtin aggregation, decreased levels of DARPP32 and BDNF 
+      and altered striatal metabolites. The abnormalities detected in this mouse model are 
+      reminiscent of several aspects of human HD. In addition, disturbed myelination was 
+      evident in postnatal Day 14 HdhQ250 mouse brain, including reduced levels of myelin 
+      regulatory factor and myelin basic protein, and decreased numbers of myelinated 
+      axons in the corpus callosum. Thinner myelin sheaths, indicated by increased G-ratio 
+      of myelin, were also detected in the corpus callosum of adult HdhQ250 mice. 
+      Moreover, proliferation of oligodendrocyte precursor cells is altered by mutant 
+      huntingtin both in vitro and in vivo. Our data indicate that this model is suitable 
+      for understanding comprehensive pathogenesis of HD in white matter and gray matter 
+      as well as developing therapeutics for HD.
+CI  - © The Author 2015. Published by Oxford University Press. All rights reserved. For 
+      Permissions, please email: journals.permissions@oup.com.
+FAU - Jin, Jing
+AU  - Jin J
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences.
+FAU - Peng, Qi
+AU  - Peng Q
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences.
+FAU - Hou, Zhipeng
+AU  - Hou Z
+AD  - Department of Radiology and.
+FAU - Jiang, Mali
+AU  - Jiang M
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences.
+FAU - Wang, Xin
+AU  - Wang X
+AD  - Department of Radiation Oncology, Weill Cornell Medical College, New York, NY 10065, 
+      USA.
+FAU - Langseth, Abraham J
+AU  - Langseth AJ
+AD  - Department of Neuroscience.
+FAU - Tao, Michael
+AU  - Tao M
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences.
+FAU - Barker, Peter B
+AU  - Barker PB
+AD  - Department of Radiology and.
+FAU - Mori, Susumu
+AU  - Mori S
+AD  - Department of Radiology and.
+FAU - Bergles, Dwight E
+AU  - Bergles DE
+AD  - Department of Neuroscience.
+FAU - Ross, Christopher A
+AU  - Ross CA
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences, Program 
+      in Cellular and Molecular Medicine, Johns Hopkins University School of Medicine, 
+      Baltimore, MD 21287, USA, Department of Neuroscience, Department of Neurology and 
+      Pharmacology and Molecular Sciences and.
+FAU - Detloff, Peter J
+AU  - Detloff PJ
+AD  - Department of Biochemistry and Molecular Genetics, University of Alabama at 
+      Birmingham, Birmingham, AL 35242, USA.
+FAU - Zhang, Jiangyang
+AU  - Zhang J
+AD  - Department of Radiology and.
+FAU - Duan, Wenzhen
+AU  - Duan W
+AD  - Division of Neurobiology, Department of Psychiatry and Behavioral Sciences, Program 
+      in Cellular and Molecular Medicine, Johns Hopkins University School of Medicine, 
+      Baltimore, MD 21287, USA, Department of Neuroscience, wduan2@jhmi.edu.
+LA  - eng
+GR  - U54 HD079123/HD/NICHD NIH HHS/United States
+GR  - R01 NS082338/NS/NINDS NIH HHS/United States
+GR  - NS065306/NS/NINDS NIH HHS/United States
+GR  - R01 NS070909/NS/NINDS NIH HHS/United States
+GR  - NS082338/NS/NINDS NIH HHS/United States
+GR  - NS072344/NS/NINDS NIH HHS/United States
+GR  - NS074196/NS/NINDS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150121
+TA  - Hum Mol Genet
+JT  - Human molecular genetics
+JID - 9208958
+RN  - 0 (Brain-Derived Neurotrophic Factor)
+RN  - 0 (Dopamine and cAMP-Regulated Phosphoprotein 32)
+RN  - 0 (HTT protein, human)
+RN  - 0 (Huntingtin Protein)
+RN  - 0 (Nerve Tissue Proteins)
+SB  - IM
+MH  - Alleles
+MH  - Animals
+MH  - Atrophy
+MH  - Brain/metabolism/*pathology
+MH  - Brain-Derived Neurotrophic Factor/metabolism
+MH  - Cell Proliferation
+MH  - Corpus Striatum/metabolism
+MH  - Disease Models, Animal
+MH  - Dopamine and cAMP-Regulated Phosphoprotein 32/metabolism
+MH  - Humans
+MH  - Huntingtin Protein
+MH  - Huntington Disease/genetics/*pathology/*physiopathology
+MH  - Magnetic Resonance Spectroscopy
+MH  - Mice
+MH  - Mice, Transgenic
+MH  - *Motor Activity
+MH  - Mutation
+MH  - Myelin Sheath/metabolism
+MH  - Nerve Tissue Proteins/genetics/metabolism
+MH  - Oligodendroglia/metabolism
+MH  - Organ Size
+MH  - Protein Aggregation, Pathological
+MH  - White Matter/metabolism/*pathology
+PMC - PMC4383863
+EDAT- 2015/01/23 06:00
+MHDA- 2015/12/23 06:00
+CRDT- 2015/01/23 06:00
+PHST- 2014/07/21 00:00 [received]
+PHST- 2015/01/19 00:00 [accepted]
+PHST- 2015/01/23 06:00 [entrez]
+PHST- 2015/01/23 06:00 [pubmed]
+PHST- 2015/12/23 06:00 [medline]
+AID - ddv016 [pii]
+AID - 10.1093/hmg/ddv016 [doi]
+PST - ppublish
+SO  - Hum Mol Genet. 2015 May 1;24(9):2508-27. doi: 10.1093/hmg/ddv016. Epub 2015 Jan 21.
+
+PMID- 22443207
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120814
+LR  - 20181113
+IS  - 1471-4159 (Electronic)
+IS  - 0022-3042 (Print)
+IS  - 0022-3042 (Linking)
+VI  - 121
+IP  - 6
+DP  - 2012 Jun
+TI  - Collapsin response mediator protein-2 phosphorylation promotes the reversible 
+      retraction of oligodendrocyte processes in response to non-lethal oxidative stress.
+PG  - 985-95
+LID - 10.1111/j.1471-4159.2012.07742.x [doi]
+AB  - The extension of processes of oligodendrocyte (OLG) and their precursor cells are 
+      crucial for migration, axonal contact and myelination. Here we show that a 
+      non-lethal oxidative stress induced by 3-nitropropionic acid (3-NP) elicited a rapid 
+      shortening of processes (~24%) in primary OLGs and in oligodendroglial cell line 
+      (OLN-93) cells (~36%) as compared with vehicle-exposed cells. This was reversible 
+      and prevented by antioxidants. Proteomics of OLG lysates with and without 3-NP 
+      treatment yielded collapsin response mediator protein 2 (CRMP-2) as a candidate 
+      effector molecule. Inhibition of rho kinase was sufficient to prevent process 
+      retraction in both OLGs and OLN-93 cells. Oxidative stress increased phosphorylation 
+      of CRMP-2 at T555 that was completely prevented by Y27632. Moreover, transfection of 
+      OLN-93 cells with the mutant CRMP-2 T555A which cannot be phosphorylated by rho 
+      kinase, prevented process shortening induced by 3-NP as compared with wild-type 
+      CRMP-2. Our results suggest a role for endogenous reactive oxygen species in a 
+      pathway that regulates OLG process extension. The vulnerability of late myelinated 
+      neurons in the adult brain and the presence of white matter pathology in human 
+      dementias warrant the study of this oligodendroglial pathway in the early stages of 
+      neurodegenerative conditions characterized by oxidative stress.
+CI  - © 2012 The Authors. Journal of Neurochemistry © 2012 International Society for 
+      Neurochemistry.
+FAU - Fernández-Gamba, Agata
+AU  - Fernández-Gamba A
+AD  - Fundación Instituto Leloir-Instituto de Investigaciones Bioquímicas de Buenos Aires, 
+      CONICET, Buenos Aires, Argentina.
+FAU - Leal, María Celeste
+AU  - Leal MC
+FAU - Maarouf, Chera L
+AU  - Maarouf CL
+FAU - Richter-Landsberg, Christiane
+AU  - Richter-Landsberg C
+FAU - Wu, Terence
+AU  - Wu T
+FAU - Morelli, Laura
+AU  - Morelli L
+FAU - Roher, Alex E
+AU  - Roher AE
+FAU - Castaño, Eduardo M
+AU  - Castaño EM
+LA  - eng
+GR  - R01 AG019795/AG/NIA NIH HHS/United States
+GR  - R01 AG019795-11/AG/NIA NIH HHS/United States
+GR  - R01AG619795/AG/NIA NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120427
+TA  - J Neurochem
+JT  - Journal of neurochemistry
+JID - 2985190R
+RN  - 0 (Antioxidants)
+RN  - 0 (Intercellular Signaling Peptides and Proteins)
+RN  - 0 (Nerve Tissue Proteins)
+RN  - 0 (Reactive Oxygen Species)
+RN  - 0 (collapsin response mediator protein-2)
+SB  - IM
+MH  - Animals
+MH  - Antioxidants/pharmacology
+MH  - Blotting, Western
+MH  - Fluorescent Antibody Technique
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Intercellular Signaling Peptides and Proteins/*metabolism
+MH  - Mutagenesis, Site-Directed
+MH  - Nerve Tissue Proteins/*metabolism
+MH  - Oligodendroglia/drug effects/*metabolism/*pathology
+MH  - Oxidative Stress/*physiology
+MH  - Phosphorylation
+MH  - Polymerase Chain Reaction
+MH  - Rats
+MH  - Rats, Wistar
+MH  - Reactive Oxygen Species/metabolism/toxicity
+MH  - Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+MH  - Transfection
+PMC - PMC3371108
+MID - NIHMS366805
+EDAT- 2012/03/27 06:00
+MHDA- 2012/08/15 06:00
+CRDT- 2012/03/27 06:00
+PHST- 2012/03/27 06:00 [entrez]
+PHST- 2012/03/27 06:00 [pubmed]
+PHST- 2012/08/15 06:00 [medline]
+AID - 10.1111/j.1471-4159.2012.07742.x [doi]
+PST - ppublish
+SO  - J Neurochem. 2012 Jun;121(6):985-95. doi: 10.1111/j.1471-4159.2012.07742.x. Epub 
+      2012 Apr 27.
+
+PMID- 19780903
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100108
+LR  - 20121115
+IS  - 1471-4159 (Electronic)
+IS  - 0022-3042 (Linking)
+VI  - 111
+IP  - 6
+DP  - 2009 Dec
+TI  - Attenuation of AD-like neuropathology by harnessing peripheral immune cells: local 
+      elevation of IL-10 and MMP-9.
+PG  - 1409-24
+LID - 10.1111/j.1471-4159.2009.06402.x [doi]
+AB  - Immunization with an altered myelin-derived peptide (MOG45D) improves recovery from 
+      acute CNS insults, partially via recruitment of monocyte-derived macrophages that 
+      locally display a regulatory activity. Here, we investigated the local alterations 
+      in the cellular and molecular immunological milieu associated with attenuation of 
+      Alzheimer's disease-like pathology following immunotherapy. We found that 
+      immunization of amyloid precursor protein/presenilin 1 double-transgenic mice with 
+      MOG45D peptide, loaded on dendritic cells, led to a substantial reduction of 
+      parenchymal and perivascular amyloid beta (Abeta)-plaque burden and soluble 
+      Abeta((1-42)) peptide levels as well as reduced astrogliosis and levels of a key 
+      glial scar protein (chondroitin sulphate proteoglycan). These changes were 
+      associated with a shift in the local innate immune response, manifested by increased 
+      Iba1+/CD45(high) macrophages that engulfed Abeta, reduced pro-inflammatory (tumor 
+      necrosis factor-alpha) and increased anti-inflammatory (interleukin-10) cytokines, 
+      as well as a significant increase in growth factors (IGF-1 and TGFbeta) in the 
+      brain. Furthermore, the levels of matrix metalloproteinase-9, an enzyme shown to 
+      degrade Abeta and is associated with glial scar formation, were significantly 
+      elevated in the brain following immunization. Altogether, these results indicate 
+      that boosting systemic immune cells leads to a local immunomodulation manifested by 
+      elevated levels of anti-inflammatory cytokines and metalloproteinases that 
+      contribute to ameliorating Alzheimer's disease pathology.
+FAU - Koronyo-Hamaoui, Maya
+AU  - Koronyo-Hamaoui M
+AD  - Department of Neurosurgery, the Maxine Dunitz Neurosurgical Institute, Cedars-Sinai 
+      Medical Center, Los Angels, California 90048, USA. Maya.koronyo@cshs.org
+FAU - Ko, Minhee K
+AU  - Ko MK
+FAU - Koronyo, Yosef
+AU  - Koronyo Y
+FAU - Azoulay, David
+AU  - Azoulay D
+FAU - Seksenyan, Akop
+AU  - Seksenyan A
+FAU - Kunis, Gilad
+AU  - Kunis G
+FAU - Pham, Michael
+AU  - Pham M
+FAU - Bakhsheshian, Joshua
+AU  - Bakhsheshian J
+FAU - Rogeri, Patricia
+AU  - Rogeri P
+FAU - Black, Keith L
+AU  - Black KL
+FAU - Farkas, Daniel L
+AU  - Farkas DL
+FAU - Schwartz, Michal
+AU  - Schwartz M
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20090924
+PL  - England
+TA  - J Neurochem
+JT  - Journal of neurochemistry
+JID - 2985190R
+RN  - 0 (Amyloid beta-Peptides)
+RN  - 0 (Amyloid beta-Protein Precursor)
+RN  - 0 (Chondroitin Sulfate Proteoglycans)
+RN  - 0 (Glycoproteins)
+RN  - 0 (Myelin-Oligodendrocyte Glycoprotein)
+RN  - 0 (PSEN1 protein, human)
+RN  - 0 (Peptide Fragments)
+RN  - 0 (Presenilin-1)
+RN  - 0 (Transforming Growth Factor beta)
+RN  - 0 (amyloid beta-protein (1-42))
+RN  - 0 (myelin oligodendrocyte glycoprotein (35-55))
+RN  - 130068-27-8 (Interleukin-10)
+RN  - 67763-96-6 (Insulin-Like Growth Factor I)
+RN  - EC 3.4.24.35 (Matrix Metalloproteinase 9)
+SB  - IM
+MH  - *Alzheimer Disease/immunology/metabolism/pathology
+MH  - Amyloid beta-Peptides/metabolism
+MH  - Amyloid beta-Protein Precursor/genetics
+MH  - Animals
+MH  - Brain/immunology
+MH  - Chondroitin Sulfate Proteoglycans/metabolism
+MH  - Dendritic Cells/drug effects/immunology
+MH  - Disease Models, Animal
+MH  - Enzyme-Linked Immunosorbent Assay/methods
+MH  - Female
+MH  - Flow Cytometry
+MH  - Gene Expression Regulation/drug effects/*immunology
+MH  - Glycoproteins/therapeutic use
+MH  - Humans
+MH  - Insulin-Like Growth Factor I/metabolism
+MH  - Interleukin-10/*metabolism
+MH  - Male
+MH  - Matrix Metalloproteinase 9/*metabolism
+MH  - Mice
+MH  - Mice, Transgenic
+MH  - Mutation/genetics
+MH  - Myelin-Oligodendrocyte Glycoprotein
+MH  - Peptide Fragments/metabolism/therapeutic use
+MH  - Presenilin-1/genetics
+MH  - Transforming Growth Factor beta/metabolism
+EDAT- 2009/09/29 06:00
+MHDA- 2010/01/09 06:00
+CRDT- 2009/09/29 06:00
+PHST- 2009/09/29 06:00 [entrez]
+PHST- 2009/09/29 06:00 [pubmed]
+PHST- 2010/01/09 06:00 [medline]
+AID - JNC6402 [pii]
+AID - 10.1111/j.1471-4159.2009.06402.x [doi]
+PST - ppublish
+SO  - J Neurochem. 2009 Dec;111(6):1409-24. doi: 10.1111/j.1471-4159.2009.06402.x. Epub 
+      2009 Sep 24.
