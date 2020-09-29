@@ -41,5 +41,18 @@ cells <- rbind(astrocyte, neuron, microglia,
                endothelial, oligodendrocyte)
 usethis::use_data(cells, overwrite = TRUE)
 
+# IDFTransform = TRUE
+# TFTransform = TRUE
+# lowerCaseTokens = TRUE
+# minTermFreq = 50
+# normalizeDocLength = Normalize all data
+# ouputWordCounts = TRUE
+# stemmer = SnowballStemmer -English
+# stopwordsHandler = Rainbow
+# tokenizer = WordTokenizer -delimiters .,;:'"()?!
+# WordToKeep = 1000
+# Filter Normalize
+# Save from WEKA to R
+cells_process_weka <- read.csv("cells_processed_tf_idf.csv")
+usethis::use_data(cells_process_weka, overwrite = TRUE)
 
-readr::write_csv(cells, "../../../Desktop/cells.csv")
