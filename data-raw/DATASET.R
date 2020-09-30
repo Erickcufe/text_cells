@@ -40,7 +40,80 @@ oligodendrocyte$Class <- "Oligodendrocyte"
 cells <- rbind(astrocyte, neuron, microglia,
                endothelial, oligodendrocyte)
 usethis::use_data(cells, overwrite = TRUE)
-# foreign::write.arff(cells, "../../../Desktop/cells.arff")
+
+prueba <- cbind(astrocyte$PMID, endothelial$PMID,
+                microglia$PMID, neuron$PMID,
+                oligodendrocyte$PMID)
+a <- astrocyte$PMID
+m <- microglia$PMID
+e <- endothelial$PMID
+ne <- neuron$PMID
+o <- oligodendrocyte$PMID
+
+n <- max(length(a), length(e),
+         length(m), length(ne),
+         length(o))
+
+length(a) <- n
+length(m) <- n
+length(e) <- n
+length(ne) <- n
+length(o) <- n
+
+VENN <- cbind(astrocyte = a, microglia = m,
+              endothelial = e, neuron = ne,
+              oligodendrocyte = o)
+
+for (i in 1:ncol(VENN)){
+  is.na_replace_blanck <- VENN[,i]
+  is.na_replace_blanck[is.na(is.na_replace_blanck)] <- ""
+  VENN[,i] <- is.na_replace_blanck
+}
+
+VENN <- data.frame(VENN)
+
+ASOC <- list(Ast= VENN[VENN$astrocyte!="",1],
+             Micro=VENN[VENN$microglia!="",2],
+             Endo=VENN[VENN$endothelial!="",3],
+             Neu=VENN[VENN$neuron!="",4],
+             Oligo=VENN[VENN$oligodendrocyte!="",5])
+
+VennDiagram::venn.diagram(ASOC, filename = "VennDiagram.png", col="transparent",
+                          fill= c("#730CBB", "#F7C422", "#C049E6", "#13B7B3", "#13B725"),
+                          cex = 2,compression ="lzw",
+                          alpha= 0.7, resolution = 300)
+
+# Obtenemos los PMID unicos de cada grupo
+aver <- VennDiagram::get.venn.partitions(ASOC,
+                                         force.unique = T,
+                                         keep.elements = T,
+                                         hierarchical = F)
+Astrocyte_unicos <- data.frame(aver[31,7])
+colnames(Astrocyte_unicos) <- "PMID"
+
+Endothelial_unicos <- data.frame(aver[28,7])
+colnames(Endothelial_unicos) <- "PMID"
+
+Neuron_unicos <- data.frame(aver[28,7])
+colnames(Neuron_unicos) <- "PMID"
+
+Microglia_unicos <- data.frame(aver[24,7])
+colnames(Microglia_unicos) <- "PMID"
+
+Oligodendrocyte_unicos <- data.frame(aver[16,7])
+colnames(Oligodendrocyte_unicos) <- "PMID"
+
+astrocytes_final <- astrocyte[astrocyte$PMID %in% Astrocyte_unicos$PMID,]
+endothelial_final <- endothelial[endothelial$PMID %in% Endothelial_unicos$PMID,]
+neuron_final <- neuron[neuron$PMID %in% Neuron_unicos$PMID,]
+microglia_final <- microglia[microglia$PMID %in% Microglia_unicos$PMID,]
+oligodendrocyte_final <- oligodendrocyte[oligodendrocyte$PMID %in% Oligodendrocyte_unicos$PMID,]
+
+Data_beforeWEKA <- rbind(astrocytes_final, endothelial_final,
+                            neuron_final, microglia_final, oligodendrocyte_final)
+usethis::use_data(Data_beforeWEKA, overwrite = TRUE)
+
+# foreign::write.arff(Data_beforeWEKA, "../../../Desktop/cells.arff")
 
 # IDFTransform = TRUE
 # TFTransform = TRUE
@@ -54,21 +127,7 @@ usethis::use_data(cells, overwrite = TRUE)
 # WordToKeep = 1000
 # Filter Normalize
 # Save from WEKA to R
-cells_process_weka <- read.csv("cells_raw.csv")
-cells_process_weka <- cbind(PMID = cells$PMID, cells_process_weka[,-1],
-                            Class = cells_process_weka$Class )
 
-usethis::use_data(cells_process_weka, overwrite = TRUE)
+data_afterWEKA <- read.csv("data_weka_filters.csv")
+usethis::use_data(data_afterWEKA, overwrite = TRUE)
 
-Dictionary <- colnames(cells_process_weka[,-c(1,1296)])
-
-GainRatio <- read.csv("GainRatio_cells.csv")
-InfoGain <- read.csv("InfoGain_cells.csv")
-Dictionary <- read.csv("Dictionary_neurovascular.csv")
-
-usethis::use_data(GainRatio, overwrite = TRUE)
-usethis::use_data(InfoGain, overwrite = TRUE)
-usethis::use_data(Dictionary, overwrite = TRUE)
-
-
-# foreign::write.arff(cells_process_weka, "cells.arff")
