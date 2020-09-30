@@ -109,11 +109,29 @@ neuron_final <- neuron[neuron$PMID %in% Neuron_unicos$PMID,]
 microglia_final <- microglia[microglia$PMID %in% Microglia_unicos$PMID,]
 oligodendrocyte_final <- oligodendrocyte[oligodendrocyte$PMID %in% Oligodendrocyte_unicos$PMID,]
 
-Data_beforeWEKA <- rbind(astrocytes_final, endothelial_final,
-                            neuron_final, microglia_final, oligodendrocyte_final)
-usethis::use_data(Data_beforeWEKA, overwrite = TRUE)
+neuron_final_1000 <- neuron_final[neuron_final$PMID %in% sample(neuron_final$PMID, 1000),]
+neuron_test <- neuron_final[!(neuron_final$PMID %in% neuron_final_1000$PMID),]
 
-# foreign::write.arff(Data_beforeWEKA, "../../../Desktop/cells.arff")
+astrocyte_1000 <- astrocytes_final[astrocytes_final$PMID %in% sample(astrocytes_final$PMID, 1000),]
+astro_test <- astrocytes_final[!(astrocytes_final$PMID %in% astrocyte_1000$PMID),]
+
+endo_1000 <- endothelial_final[endothelial_final$PMID %in% sample(endothelial_final$PMID, 1000),]
+endo_test <- endothelial_final[!(endothelial_final$PMID %in% endo_1000$PMID),]
+
+micro_1000 <- microglia_final[microglia_final$PMID %in% sample(microglia_final$PMID, 1000),]
+micro_test <- microglia_final[!(microglia_final$PMID %in% micro_1000$PMID),]
+
+
+
+Datatrain_beforeWEKA_4clases <- rbind(astrocyte_1000, endo_1000,
+                            neuron_final_1000, micro_1000)
+usethis::use_data(Datatrain_beforeWEKA_4clases, overwrite = TRUE)
+
+Datatest_beforeWEKA_4clases <- rbind(astro_test, endo_test, micro_test,
+                                     neuron_test)
+usethis::use_data(Datatest_beforeWEKA_4clases, overwrite = TRUE)
+
+foreign::write.arff(Datatrain_beforeWEKA_4clases, "cells_pre4classes.arff")
 
 # IDFTransform = TRUE
 # TFTransform = TRUE
@@ -128,6 +146,13 @@ usethis::use_data(Data_beforeWEKA, overwrite = TRUE)
 # Filter Normalize
 # Save from WEKA to R
 
-data_afterWEKA <- read.csv("data_weka_filters.csv")
+data_afterWEKA_4Classes <- read.csv("cells_afteWEKA4classes.csv")
 usethis::use_data(data_afterWEKA, overwrite = TRUE)
+
+# FALTA EQUILIBRAR LAS CLASES
+# SE PODRIAN QUITAR 7100 PMID DE NEURON, O DEJAR TODAS EN MIL, Y
+# HACER UN INTENTO CON 5 CLASES Y 4 CLASES, CON 1000 INSTANCIAS CADA CLASE
+
+
+
 

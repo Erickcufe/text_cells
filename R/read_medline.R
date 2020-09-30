@@ -27,10 +27,15 @@ read_medline <- function(text, key1 = "PMID-", key2 = "AB  -"){
   }
   b <- 1
   data_list <- list()
+  if(length(a)==0){
+    data_list <- list(text)
+  } else {
     for (i in 1:length(a)){
-    c <- a[i]
-    data_list[[i]] <- text[b:c]
-    b <- c+1
+      print(i)
+      c <- a[i]
+      data_list[[i]] <- text[b:c]
+      b <- c+1
+    }
   }
   list_text <- data_list
   mydf <- data.frame()
