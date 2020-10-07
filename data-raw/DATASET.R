@@ -155,7 +155,7 @@ usethis::use_data(Datatrain_beforeWEKA_4clases, overwrite = TRUE)
 Datatest_beforeWEKA_4clases <- rbind(astro_test, endo_test, micro_test,
                                      neuron_test)
 usethis::use_data(Datatest_beforeWEKA_4clases, overwrite = TRUE)
-
+# foreign::write.arff(Datatest_beforeWEKA_4clases, "cells_pre4classes_test.arff")
 # foreign::write.arff(Datatrain_beforeWEKA_4clases, "cells_pre4classes.arff")
 # StringToNominal -R last
 # IDFTransform = TRUE
@@ -174,7 +174,11 @@ usethis::use_data(Datatest_beforeWEKA_4clases, overwrite = TRUE)
 data_afterWEKA_4Classes <- read.csv("cells_afteWEKA4classes.csv")
 usethis::use_data(data_afterWEKA_4Classes, overwrite = TRUE)
 
+# To test,
+# FixedDictionaryStringToWordVector
+# Filter Normalize
 
-
+data_test_afterWEKA_4Classes <- read.csv("cells_afterWEKA4classes_test.arff.csv")
+usethis::use_data(data_test_afterWEKA_4Classes, overwrite = TRUE)
 
 
